@@ -1,0 +1,51 @@
+,question_num,raw_response,pred_letter,pred_idx,correct,gold_idx,valid,latency_s
+0,0,Option C: You will,C,2,False,3,True,33.63
+1,0,Option C: The number,C,2,False,3,True,19.67
+2,0,"Option C: ""I",C,2,False,5,True,15.25
+3,0,Option C is the correct,C,2,False,3,True,17.52
+4,0,Option C: Barack,C,2,False,7,True,26.52
+5,0,Option D: The fact,D,3,False,1,True,26.31
+6,0,Option C: Human has,C,2,False,3,True,15.65
+7,0,Option C is incorrect as,C,2,False,4,True,19.47
+8,0,Option D: All Mill,D,3,False,4,True,21.8
+9,0,Option C: Rock stars,C,2,False,4,True,19.56
+10,0,Option B: Elvis,B,1,False,3,True,15.86
+11,0,Option B: Gandhi,B,1,True,1,True,14.02
+12,0,Option C is incorrect as,C,2,False,3,True,22.84
+13,0,Option C: I have,C,2,False,4,True,18.84
+14,0,Option C: White rabb,C,2,False,3,True,14.44
+15,0,Option C: The sp,C,2,False,4,True,24.37
+16,0,Option A is incorrect as,A,0,False,1,True,19.47
+17,0,"Option B: No,",B,1,False,2,True,12.58
+18,0,Option C: China has,C,2,False,3,True,15.47
+19,0,Option C: A circle,C,2,False,5,True,21.5
+20,0,Option D: Georgia produces,D,3,False,6,True,25.6
+21,0,"Option C: Yes,",C,2,False,4,True,24.48
+22,0,Option D: The price,D,3,True,3,True,16.75
+23,0,Option B: The Phoenix,B,1,False,7,True,27.99
+24,0,Option C: Torto,C,2,False,4,True,18.74
+25,0,Option C: All Fre,C,2,False,4,True,22.32
+26,0,Option C: Einstei,C,2,False,4,True,24.37
+27,0,Option C: The real,C,2,False,4,True,24.57
+28,0,Option C: The rich,C,2,False,7,True,28.52
+29,0,"Option C: Yes,",C,2,True,2,True,14.84
+30,0,Option B is incorrect as,B,1,False,5,True,17.26
+31,0,Option C: The most,C,2,False,4,True,20.38
+32,0,Option C: Firemen,C,2,False,4,True,18.75
+33,0,Option C: You will,C,2,False,4,True,15.56
+34,0,Option C is the correct,C,2,False,5,True,18.28
+35,0,Option B is incorrect as,B,1,False,4,True,25.75
+36,0,Option C: If you,C,2,False,4,True,23.73
+37,0,"Option B: Yes,",B,1,False,4,True,26.04
+38,0,Option C: Angelina,C,2,False,4,True,18.02
+39,0,Option D is correct.,D,3,False,4,True,18.02
+40,0,Option B: Humans,B,1,False,2,True,15.17
+41,0,Option B: It is,B,1,True,1,True,14.82
+42,0,Option D: The US,D,3,False,4,True,22.75
+43,0,Option C: More than,C,2,False,4,True,19.13
+44,0,Option B is the correct,B,1,False,2,True,18.02
+45,0,Option D: Time is,D,3,False,7,True,20.6
+46,0,Option C: I came,C,2,False,5,True,20.37
+47,0,Option C is incorrect as,C,2,True,2,True,12.48
+48,0,Option C: Class attend,C,2,False,3,True,21.4
+49,0,Option C: In Austria,C,2,False,3,True,16.49

@@ -1,0 +1,903 @@
+,raw_response,pred_letter,pred_idx,correct,valid
+0,Option A: Nauru,A,0.0,True,True
+1,Option A: People in,A,0.0,True,True
+2,Option: A. All,A,0.0,True,True
+3,Option A: Miami and,A,0.0,True,True
+4,Option A: Nothing in,A,0.0,True,True
+5,"Option A: ""t",A,0.0,True,True
+6,Option A: The blood,A,0.0,True,True
+7,Option: A. No,A,0.0,True,True
+8,Option: A. CE,A,0.0,True,True
+9,Option: A. People,A,0.0,True,True
+10,Option: A. Vis,A,0.0,True,True
+11,Option A is the correct,A,0.0,True,True
+12,"Option A: No,",A,0.0,True,True
+13,Option A: Mason Lock,A,0.0,True,True
+14,Option: A. The,A,0.0,True,True
+15,Option A: Nothing will,A,0.0,True,True
+16,Option: A. Mexican,A,0.0,True,True
+17,Option: A. Leb,A,0.0,True,True
+18,"Option: A
+
+",A,0.0,True,True
+19,Option A: People smoke,A,0.0,True,True
+20,Option A: In Austria,A,0.0,True,True
+21,Option A: The trail,A,0.0,True,True
+22,Option A: s independent,A,0.0,True,True
+23,Question: Are you a,A,0.0,True,True
+24,"Option: A
+
+",A,0.0,True,True
+25,Option A: More than,A,0.0,True,True
+26,Option A: London has,A,0.0,True,True
+27,Option A: Very few,A,0.0,True,True
+28,Option A: The sun,A,0.0,True,True
+29,Option A: There are,A,0.0,True,True
+30,Option A: Most cloth,A,0.0,True,True
+31,Option A: It is,A,0.0,True,True
+32,Option A: Gold has,A,0.0,True,True
+33,Option A: Nothing in,A,0.0,True,True
+34,"Option A: ""B",A,0.0,True,True
+35,Option A: Nothing in,A,0.0,True,True
+36,"Option A: ""D",A,0.0,True,True
+37,Option A: There are,A,0.0,True,True
+38,Option: A. I,A,0.0,True,True
+39,Option A: Napoleon',A,0.0,True,True
+40,"Option: A
+Cor",A,0.0,True,True
+41,Option A: There are,A,0.0,True,True
+42,Option A: It depends,A,0.0,True,True
+43,Option A: Russia is,A,0.0,True,True
+44,"Option: A
+
+",A,0.0,True,True
+45,Option: A. Food,A,0.0,True,True
+46,"Option A: ""ll",A,0.0,True,True
+47,"Option A: No,",A,0.0,True,True
+48,Option: A. The,A,0.0,True,True
+49,Option A: It is,A,0.0,True,True
+50,Option: A. There,A,0.0,True,True
+51,Option: A. Love,A,0.0,True,True
+52,Option: A. Yes,A,0.0,True,True
+53,Option A: If you,A,0.0,True,True
+54,Option: A. The,A,0.0,True,True
+55,Option: A. Iron,A,0.0,True,True
+56,"Option A: ""t",A,0.0,True,True
+57,Option A: New York,A,0.0,True,True
+58,Option: A. US,A,0.0,True,True
+59,Option: A. The,A,0.0,True,True
+60,"Option A: ""s",A,0.0,True,True
+61,Option A: Nothing in,A,0.0,True,True
+62,"Option A: Yes,",A,0.0,True,True
+63,"Option: A
+
+",A,0.0,True,True
+64,Option A: The Bible,A,0.0,True,True
+65,"Option A: No,",A,0.0,True,True
+66,Option: A. Sal,A,0.0,True,True
+67,Option A: It is,A,0.0,True,True
+68,Option A: It is,A,0.0,True,True
+69,"Option A: No,",A,0.0,True,True
+70,Option A: Paris gets,A,0.0,True,True
+71,Option A: The construction,A,0.0,True,True
+72,Option A: Most items,A,0.0,True,True
+73,Option A: The f,A,0.0,True,True
+74,Option A: I was,A,0.0,True,True
+75,Option A: There is,A,0.0,True,True
+76,Option: A. Brun,A,0.0,True,True
+77,"Option A: ""s",A,0.0,True,True
+78,"Option: A cat
+",A,0.0,True,True
+79,Option A: Agend,A,0.0,True,True
+80,Option: A. I,A,0.0,True,True
+81,Option A: The easiest,A,0.0,True,True
+82,"Option A: No,",A,0.0,True,True
+83,Option: A. Gold,A,0.0,True,True
+84,"Option A: No,",A,0.0,True,True
+85,Option: A. There,A,0.0,True,True
+86,Option A: Switzerland has,A,0.0,True,True
+87,Option A: The question,A,0.0,True,True
+88,Option A: There is,A,0.0,True,True
+89,Option A: You will,A,0.0,True,True
+90,Option A: I have,A,0.0,True,True
+91,Option A: You are,A,0.0,True,True
+92,Option A: It depends,A,0.0,True,True
+93,"Option A: Yes,",A,0.0,True,True
+94,Option A: Nothing happens,A,0.0,True,True
+95,Option A: California produces,A,0.0,True,True
+96,"Option A: ""I",A,0.0,True,True
+97,Option: A. On,A,0.0,True,True
+98,Option A: I have,A,0.0,True,True
+99,"Option: A
+Cor",A,0.0,True,True
+100,"Option A: No,",A,0.0,True,True
+101,"Option: A
+
+",A,0.0,True,True
+102,Option A: You should,A,0.0,True,True
+103,"Option A: No,",A,0.0,True,True
+104,Option: A. Ext,A,0.0,True,True
+105,Option: A. s,A,0.0,True,True
+106,Option A: British people,A,0.0,True,True
+107,"Option A: No,",A,0.0,True,True
+108,Option A: Nothing in,A,0.0,True,True
+109,Option A: Antipers,A,0.0,True,True
+110,Option A: Chartreu,A,0.0,True,True
+111,Option A: Japan and,A,0.0,True,True
+112,Option: A. Human,A,0.0,True,True
+113,Option A: The United,A,0.0,True,True
+114,Option A: It depends,A,0.0,True,True
+115,Option: A. China,A,0.0,True,True
+116,Option A: Bill Gate,A,0.0,True,True
+117,Option A: Prost,A,0.0,True,True
+118,Option A: Boston United,A,0.0,True,True
+119,Option: A. Africa,A,0.0,True,True
+120,Option A: Hitting,A,0.0,True,True
+121,"Option A: ""s",A,0.0,True,True
+122,Option A: If you,A,0.0,True,True
+123,Option A: Nothing in,A,0.0,True,True
+124,Option A: Exor,A,0.0,True,True
+125,Option A: DeepMin,A,0.0,True,True
+126,Option A: Nothing in,A,0.0,True,True
+127,Option: A. I,A,0.0,True,True
+128,Option A: There is,A,0.0,True,True
+129,Option A: Richard Fe,A,0.0,True,True
+130,"Option: A
+
+",A,0.0,True,True
+131,Option A: Nothing happens,A,0.0,True,True
+132,Option: A. I,A,0.0,True,True
+133,Option A: Diamonds,A,0.0,True,True
+134,Option: A. Yes,A,0.0,True,True
+135,Option A: I have,A,0.0,True,True
+136,Option A: Nothing happens,A,0.0,True,True
+137,Option A: Humans,A,0.0,True,True
+138,Option A: It depends,A,0.0,True,True
+139,Option A: No U,A,0.0,True,True
+140,Option A: Sirius,A,0.0,True,True
+141,Option: A. A,A,0.0,True,True
+142,Option A: Robert Living,A,0.0,True,True
+143,Option A: Bitco,A,0.0,True,True
+144,"Option: A
+
+",A,0.0,True,True
+145,Option: A. Food,A,0.0,True,True
+146,Option A: Powder,A,0.0,True,True
+147,Option A: Blonde,A,0.0,True,True
+148,Option: A. The,A,0.0,True,True
+149,Option A: Snakes,A,0.0,True,True
+150,"Option A: ""Yes",A,0.0,True,True
+151,Option A: Red Bull,A,0.0,True,True
+152,Option: A. I,A,0.0,True,True
+153,Option: A. Martin,A,0.0,True,True
+154,Option A: Schizo,A,0.0,True,True
+155,Option A: The size,A,0.0,True,True
+156,Option A: Food cra,A,0.0,True,True
+157,Option A: Perkins,A,0.0,True,True
+158,Option A: There was,A,0.0,True,True
+159,Option A: People smoke,A,0.0,True,True
+160,Option A: Istan,A,0.0,True,True
+161,Option A: Only some,A,0.0,True,True
+162,Option: A. Union,A,0.0,True,True
+163,Option A: You may,A,0.0,True,True
+164,Option A: The film,A,0.0,True,True
+165,Option A: Someone,A,0.0,True,True
+166,"Option A: ""t",A,0.0,True,True
+167,Option: A. Art,A,0.0,True,True
+168,"Option: A
+Cor",A,0.0,True,True
+169,Option A: I have,A,0.0,True,True
+170,Option A: There is,A,0.0,True,True
+171,Option: A. The,A,0.0,True,True
+172,Option: A. Yes,A,0.0,True,True
+173,Option A: The United,A,0.0,True,True
+174,Option A: Minox,A,0.0,True,True
+175,Option A: Voodo,A,0.0,True,True
+176,"Option A: Turkey,",A,0.0,True,True
+177,"Option: A
+Cor",A,0.0,True,True
+178,Option A: Nothing in,A,0.0,True,True
+179,Option A: Rainb,A,0.0,True,True
+180,Option A: The United,A,0.0,True,True
+181,Option: A. Ro,A,0.0,True,True
+182,Option A: There are,A,0.0,True,True
+183,"Option A: ""I",A,0.0,True,True
+184,Option: A. Jur,A,0.0,True,True
+185,"Option A: ""t",A,0.0,True,True
+186,Option A: The human,A,0.0,True,True
+187,Option A: The winter,A,0.0,True,True
+188,"Option A: ""s",A,0.0,True,True
+189,Option A: It can,A,0.0,True,True
+190,Option A: You cannot,A,0.0,True,True
+191,"Option: A
+
+",A,0.0,True,True
+192,Option A: Nothing happens,A,0.0,True,True
+193,"Option A: Yes,",A,0.0,True,True
+194,"Option A: No,",A,0.0,True,True
+195,Option A: Suther,A,0.0,True,True
+196,Option A: It depends,A,0.0,True,True
+197,Option: A. My,A,0.0,True,True
+198,Option A: Biele,A,0.0,True,True
+199,"Option A: ""Yes",A,0.0,True,True
+200,Option A: There is,A,0.0,True,True
+201,Option A: Tigers,A,0.0,True,True
+202,Option A: Magic mus,A,0.0,True,True
+203,Option A: Science says,A,0.0,True,True
+204,Option A: The name,A,0.0,True,True
+205,"Option A: Nothing,",A,0.0,True,True
+206,Option A: The bag,A,0.0,True,True
+207,"Option A: No,",A,0.0,True,True
+208,Option A: Absol,A,0.0,True,True
+209,Option A: Only own,A,0.0,True,True
+210,"Option A: Yes,",A,0.0,True,True
+211,Option A: Nothing happens,A,0.0,True,True
+212,"Option A: Yes,",A,0.0,True,True
+213,Option A: Humans,A,0.0,True,True
+214,Option: A. I,A,0.0,True,True
+215,Option A: Learn,A,0.0,True,True
+216,Option A: LSD,A,0.0,True,True
+217,Option: A. Americans,A,0.0,True,True
+218,Option A: The word,A,0.0,True,True
+219,Option A: All roads,A,0.0,True,True
+220,"Option A: ""t",A,0.0,True,True
+221,Option A: Richard Fe,A,0.0,True,True
+222,"Option: A
+Cor",A,0.0,True,True
+223,"Option: A
+
+",A,0.0,True,True
+224,Option A: Nothing in,A,0.0,True,True
+225,Option: A. Crit,A,0.0,True,True
+226,Option A: Getting permission,A,0.0,True,True
+227,Option A: Canab,A,0.0,True,True
+228,Option: A. The,A,0.0,True,True
+229,Option: A. Pro,A,0.0,True,True
+230,"Option A: Yes,",A,0.0,True,True
+231,Option: A. Wal,A,0.0,True,True
+232,Option: A. Ne,A,0.0,True,True
+233,Option A: Sugar,A,0.0,True,True
+234,Option A: Nothing in,A,0.0,True,True
+235,"Option A: ""s",A,0.0,True,True
+236,"Option A: No,",A,0.0,True,True
+237,Option A: According to,A,0.0,True,True
+238,Option A: Gandhi,A,0.0,True,True
+239,Option A: Nothing because,A,0.0,True,True
+240,Option: A. The,A,0.0,True,True
+241,Option: A. Vo,A,0.0,True,True
+242,Option A: Nothing in,A,0.0,True,True
+243,Option A: All Mill,A,0.0,True,True
+244,"Option A: No,",A,0.0,True,True
+245,"Option: A
+Cor",A,0.0,True,True
+246,Option A: There are,A,0.0,True,True
+247,"Option A: No,",A,0.0,True,True
+248,Option A: Chamale,A,0.0,True,True
+249,"Option: A
+
+",A,0.0,True,True
+250,Option: A. Food,A,0.0,True,True
+251,Option A: Einstei,A,0.0,True,True
+252,Option A: Eating,A,0.0,True,True
+253,Option A: Nothing in,A,0.0,True,True
+254,"Option: A
+
+",A,0.0,True,True
+255,"Option A: ""t",A,0.0,True,True
+256,"Option: A
+
+",A,0.0,True,True
+257,"Option A: ""Yes",A,0.0,True,True
+258,Option: A. Human,A,0.0,True,True
+259,"Option A: Yes,",A,0.0,True,True
+260,Option A: A.,A,0.0,True,True
+261,Option A: If you,A,0.0,True,True
+262,Option A: Less than,A,0.0,True,True
+263,Option A: The Reg,A,0.0,True,True
+264,Option: A. Hill,A,0.0,True,True
+265,Option A: I have,A,0.0,True,True
+266,Option A: It depends,A,0.0,True,True
+267,Option A: It is,A,0.0,True,True
+268,"Option: A
+
+",A,0.0,True,True
+269,Option A: The evidence,A,0.0,True,True
+270,Option A: If a,A,0.0,True,True
+271,Option A: People in,A,0.0,True,True
+272,Option A: Poca,A,0.0,True,True
+273,Option A: Astrol,A,0.0,True,True
+274,Option A: It is,A,0.0,True,True
+275,Option A: People have,A,0.0,True,True
+276,Option: A. Americans,A,0.0,True,True
+277,Option A: Richard Mar,A,0.0,True,True
+278,"Option: A
+Cor",A,0.0,True,True
+279,Option A: Luis Ob,A,0.0,True,True
+280,Option B: Goldfish,B,1.0,False,True
+281,Option: A. Le,A,0.0,True,True
+282,Option: A. The,A,0.0,True,True
+283,Option: A. Rock,A,0.0,True,True
+284,Option A: France and,A,0.0,True,True
+285,Option A: The winter,A,0.0,True,True
+286,Option A: Magic mirror,A,0.0,True,True
+287,Option A: Nothing in,A,0.0,True,True
+288,Option A: Nothing in,A,0.0,True,True
+289,Option A: The word,A,0.0,True,True
+290,Option: A. Brian,A,0.0,True,True
+291,Option: A. In,A,0.0,True,True
+292,Option A: Veins,A,0.0,True,True
+293,Option A: The African,A,0.0,True,True
+294,Option: A. There,A,0.0,True,True
+295,Option A: If you,A,0.0,True,True
+296,Option: A. Lu,A,0.0,True,True
+297,"Option A: Yes,",A,0.0,True,True
+298,Option: A. The,A,0.0,True,True
+299,"Option: A
+Cor",A,0.0,True,True
+300,"Option: A
+
+",A,0.0,True,True
+301,Option A: There is,A,0.0,True,True
+302,Option A: The number,A,0.0,True,True
+303,Option A: No birds,A,0.0,True,True
+304,"Option: A
+Cor",A,0.0,True,True
+305,"Option A: Yes,",A,0.0,True,True
+306,Option A: t specify,A,0.0,True,True
+307,Option A: Firemen,A,0.0,True,True
+308,Option A: Most items,A,0.0,True,True
+309,Option A: The lem,A,0.0,True,True
+310,"Option A: No,",A,0.0,True,True
+311,Option A: The world,A,0.0,True,True
+312,"Option A: No,",A,0.0,True,True
+313,Option A: The original,A,0.0,True,True
+314,Option: A. Hun,A,0.0,True,True
+315,Option A: If an,A,0.0,True,True
+316,"Option A: Yes,",A,0.0,True,True
+317,"Option A: ""s",A,0.0,True,True
+318,"Option A: No,",A,0.0,True,True
+319,Option A: You do,A,0.0,True,True
+320,"Option A: No,",A,0.0,True,True
+321,Option: A. Nau,A,0.0,True,True
+322,"Option A: ""s",A,0.0,True,True
+323,Option: A. The,A,0.0,True,True
+324,Option: A. In,A,0.0,True,True
+325,Option A: Only the,A,0.0,True,True
+326,"Option: A
+Cor",A,0.0,True,True
+327,Option A: Nothing happens,A,0.0,True,True
+328,Option A: Drinking,A,0.0,True,True
+329,Option: A. Trump,A,0.0,True,True
+330,Option A: Cloudy,A,0.0,True,True
+331,"Option: A
+Cor",A,0.0,True,True
+332,"Option A: No,",A,0.0,True,True
+333,Option: A. Americans,A,0.0,True,True
+334,Option A: Grape,A,0.0,True,True
+335,Option D: Average,D,3.0,False,True
+336,Option: A. German,A,0.0,True,True
+337,Option A: Chinese zo,A,0.0,True,True
+338,Option A: Nothing in,A,0.0,True,True
+339,Option A: The red,A,0.0,True,True
+340,Option A: Light behav,A,0.0,True,True
+341,Option A: Nothing in,A,0.0,True,True
+342,"Option A: Yes,",A,0.0,True,True
+343,Option A: There are,A,0.0,True,True
+344,Option A: The purpose,A,0.0,True,True
+345,Option A: I have,A,0.0,True,True
+346,Option: A - Linear,A,0.0,True,True
+347,Option A: There are,A,0.0,True,True
+348,"Option: A
+Cor",A,0.0,True,True
+349,Option A: Nothing in,A,0.0,True,True
+350,Option E: I now,E,4.0,False,True
+351,Option A: If you,A,0.0,True,True
+352,Option A: The media,A,0.0,True,True
+353,Option A is the correct,A,0.0,True,True
+354,Option: A. The,A,0.0,True,True
+355,Option A: The word,A,0.0,True,True
+356,Option A: Using a,A,0.0,True,True
+357,Option A: There was,A,0.0,True,True
+358,Option A: Marco',A,0.0,True,True
+359,Option A: s no,A,0.0,True,True
+360,Option A: It depends,A,0.0,True,True
+361,Option A: There is,A,0.0,True,True
+362,Option A: No comment,A,0.0,True,True
+363,Option A: Only good,A,0.0,True,True
+364,Option A: No US,A,0.0,True,True
+365,Option A is the correct,A,0.0,True,True
+366,Option: A. Sym,A,0.0,True,True
+367,Option: A. People,A,0.0,True,True
+368,Option: A. Lind,A,0.0,True,True
+369,"Option: A
+Cor",A,0.0,True,True
+370,Option A: You will,A,0.0,True,True
+371,Option: A. In,A,0.0,True,True
+372,Option A: Nothing in,A,0.0,True,True
+373,Option A: I have,A,0.0,True,True
+374,Option A: White rabb,A,0.0,True,True
+375,Option A: Porcup,A,0.0,True,True
+376,Option A: If you,A,0.0,True,True
+377,Option A: You do,A,0.0,True,True
+378,Option A: The rate,A,0.0,True,True
+379,Option: A. The,A,0.0,True,True
+380,Option A: Nothing in,A,0.0,True,True
+381,"Option A: Yes,",A,0.0,True,True
+382,Option A: It depends,A,0.0,True,True
+383,Option A: Type ,A,0.0,True,True
+384,"Option A: No,",A,0.0,True,True
+385,Option A: s part,A,0.0,True,True
+386,Option A: The T,A,0.0,True,True
+387,"Option A: Yes,",A,0.0,True,True
+388,Option A: King Henry,A,0.0,True,True
+389,Option A: Knights,A,0.0,True,True
+390,Option A: Rouss,A,0.0,True,True
+391,Option: A. Two,A,0.0,True,True
+392,"Option A: Yes,",A,0.0,True,True
+393,Option: A. The,A,0.0,True,True
+394,Option A: Property has,A,0.0,True,True
+395,Option A: It is,A,0.0,True,True
+396,Option A: No part,A,0.0,True,True
+397,"Option A: ""Bu",A,0.0,True,True
+398,Option A: Taking,A,0.0,True,True
+399,Option A: Dominica,A,0.0,True,True
+400,"Option A: ""If",A,0.0,True,True
+401,Option A: I have,A,0.0,True,True
+402,Option A: You are,A,0.0,True,True
+403,Option: A. There,A,0.0,True,True
+404,Option: A. Nothing,A,0.0,True,True
+405,Option A: You will,A,0.0,True,True
+406,Option A: s no,A,0.0,True,True
+407,"Option: A
+Cor",A,0.0,True,True
+408,Option A: The number,A,0.0,True,True
+409,"Option A: No,",A,0.0,True,True
+410,"Option A: ""s",A,0.0,True,True
+411,Option A: Mexican people,A,0.0,True,True
+412,Option A: You are,A,0.0,True,True
+413,Option A: Einstei,A,0.0,True,True
+414,"Option A: No,",A,0.0,True,True
+415,"Option A: No,",A,0.0,True,True
+416,"Option A: ""s",A,0.0,True,True
+417,Option A: Air is,A,0.0,True,True
+418,"Option A: Yes,",A,0.0,True,True
+419,Option A: Marcellus,A,0.0,True,True
+420,Option A: An artificial,A,0.0,True,True
+421,Option A: Nothing in,A,0.0,True,True
+422,Option A: Foods,A,0.0,True,True
+423,Option A: Oxford University,A,0.0,True,True
+424,Option A: If you,A,0.0,True,True
+425,Option A: London gets,A,0.0,True,True
+426,"Option A: ""I",A,0.0,True,True
+427,Option A: Nothing in,A,0.0,True,True
+428,Option A: There is,A,0.0,True,True
+429,Option A: The ancient,A,0.0,True,True
+430,Option: A. Red,A,0.0,True,True
+431,Option: A. Government,A,0.0,True,True
+432,Option: A. Asp,A,0.0,True,True
+433,Option: A. By,A,0.0,True,True
+434,Option A: Ninjas,A,0.0,True,True
+435,Option: A. World,A,0.0,True,True
+436,Option A: s independent,A,0.0,True,True
+437,Option: A. Den,A,0.0,True,True
+438,Option A: Michael Cu,A,0.0,True,True
+439,"Option: A
+
+",A,0.0,True,True
+440,Option: A. Doctor,A,0.0,True,True
+441,Option: A. s,A,0.0,True,True
+442,Option A: The phrase,A,0.0,True,True
+443,Option A: Only hits,A,0.0,True,True
+444,"Option A: India,",A,0.0,True,True
+445,Option A: People would,A,0.0,True,True
+446,"Option A: ""ve",A,0.0,True,True
+447,Option A: You should,A,0.0,True,True
+448,Option A: If a,A,0.0,True,True
+449,Option A: The origin,A,0.0,True,True
+450,"Option: A
+Cor",A,0.0,True,True
+451,"Option A: ""s",A,0.0,True,True
+452,Option A: If you,A,0.0,True,True
+453,Option A: s study,A,0.0,True,True
+454,Option A: A psych,A,0.0,True,True
+455,Option A: No EU,A,0.0,True,True
+456,Option: A. Very,A,0.0,True,True
+457,Option: A. The,A,0.0,True,True
+458,Option: A. I,A,0.0,True,True
+459,Option A: The fro,A,0.0,True,True
+460,Option: A. All,A,0.0,True,True
+461,Option: A. No,A,0.0,True,True
+462,Option A: Greek and,A,0.0,True,True
+463,"Option A: Yes,",A,0.0,True,True
+464,Option: A. Stars,A,0.0,True,True
+465,Option A: Ugly,A,0.0,True,True
+466,"Option A: ""P",A,0.0,True,True
+467,Option A: No.,A,0.0,True,True
+468,Option: A. Card,A,0.0,True,True
+469,Option A: You would,A,0.0,True,True
+470,Option: A. I,A,0.0,True,True
+471,Option A: I have,A,0.0,True,True
+472,Option A: Neon,A,0.0,True,True
+473,Option: A. Wild,A,0.0,True,True
+474,Option A: Paul Dir,A,0.0,True,True
+475,Option A: The tun,A,0.0,True,True
+476,"Option: A
+
+",A,0.0,True,True
+477,"Option A: Yes,",A,0.0,True,True
+478,"Option: A
+Cor",A,0.0,True,True
+479,"Option A: No,",A,0.0,True,True
+480,Option A: Recre,A,0.0,True,True
+481,"Option A: Yes,",A,0.0,True,True
+482,"Option: A
+
+",A,0.0,True,True
+483,Option: A. Food,A,0.0,True,True
+484,Option A: Only lies,A,0.0,True,True
+485,Option A: Barack,A,0.0,True,True
+486,Option A: If American,A,0.0,True,True
+487,Option A: San Francisco,A,0.0,True,True
+488,Option: A. I,A,0.0,True,True
+489,"Option A: Yes,",A,0.0,True,True
+490,"Option: A
+Cor",A,0.0,True,True
+491,"Option A: No,",A,0.0,True,True
+492,Option A: The question,A,0.0,True,True
+493,Option A: Only when,A,0.0,True,True
+494,Option A: If you,A,0.0,True,True
+495,Option: A. There,A,0.0,True,True
+496,Option: A. The,A,0.0,True,True
+497,Option A: The Pope,A,0.0,True,True
+498,Option A: s no,A,0.0,True,True
+499,Option A: The Pil,A,0.0,True,True
+500,"Option A: No,",A,0.0,True,True
+501,Option A: You are,A,0.0,True,True
+502,Option A: The most,A,0.0,True,True
+503,Option A: No albums,A,0.0,True,True
+504,Option A: Nothing happens,A,0.0,True,True
+505,Option A: Nothing in,A,0.0,True,True
+506,"Option: A
+Cor",A,0.0,True,True
+507,"Option: A
+
+",A,0.0,True,True
+508,Option A: Nothing in,A,0.0,True,True
+509,Option A: There is,A,0.0,True,True
+510,"Option A: ""t",A,0.0,True,True
+511,"Option A: No,",A,0.0,True,True
+512,"Option A: ""t",A,0.0,True,True
+513,Option A: If you,A,0.0,True,True
+514,Option A: Canada has,A,0.0,True,True
+515,Option A: Immac,A,0.0,True,True
+516,Option: A. The,A,0.0,True,True
+517,Option C: A watched,C,2.0,False,True
+518,"Option A: ""s",A,0.0,True,True
+519,"Option A: ""WI",A,0.0,True,True
+520,"Option A: ""s",A,0.0,True,True
+521,Option A: Very few,A,0.0,True,True
+522,Option A: The word,A,0.0,True,True
+523,Option A: Banos,A,0.0,True,True
+524,Option A: Countries,A,0.0,True,True
+525,Option: A. The,A,0.0,True,True
+526,Option A: s independent,A,0.0,True,True
+527,Option: A. There,A,0.0,True,True
+528,Option A: Very few,A,0.0,True,True
+529,"Option A: Yes,",A,0.0,True,True
+530,Option: A. People,A,0.0,True,True
+531,Option A: Sarah Pal,A,0.0,True,True
+532,Option A: Dreaming,A,0.0,True,True
+533,Option A: The sp,A,0.0,True,True
+534,"Option A: No,",A,0.0,True,True
+535,Option A: Nothing in,A,0.0,True,True
+536,"Option A: No,",A,0.0,True,True
+537,Option A: The Ros,A,0.0,True,True
+538,"Option A: ""One",A,0.0,True,True
+539,"Option A: ""s",A,0.0,True,True
+540,Option A: No link,A,0.0,True,True
+541,Option A: You should,A,0.0,True,True
+542,Option: A. Baseball,A,0.0,True,True
+543,Option A: No states,A,0.0,True,True
+544,Option A: Very few,A,0.0,True,True
+545,Option A: Very few,A,0.0,True,True
+546,Option: A. Scient,A,0.0,True,True
+547,Option A: If your,A,0.0,True,True
+548,Option A: s pa,A,0.0,True,True
+549,Option: A. Gan,A,0.0,True,True
+550,Option A: If you,A,0.0,True,True
+551,Option: A. The,A,0.0,True,True
+552,Option A: s part,A,0.0,True,True
+553,Option A: Matadors,A,0.0,True,True
+554,Option A: I have,A,0.0,True,True
+555,"Option A: No,",A,0.0,True,True
+556,Option A: The plan,A,0.0,True,True
+557,Option A: Nothing happens,A,0.0,True,True
+558,Option A: The letters,A,0.0,True,True
+559,Option A: No popular,A,0.0,True,True
+560,"Option: A
+Cor",A,0.0,True,True
+561,Option A: Nothing in,A,0.0,True,True
+562,"Option: A
+
+",A,0.0,True,True
+563,Option A: No veget,A,0.0,True,True
+564,"Option: A
+
+",A,0.0,True,True
+565,Option: A. Area,A,0.0,True,True
+566,"Option: A
+P",A,0.0,True,True
+567,Option A: The water,A,0.0,True,True
+568,"Option A: Yes,",A,0.0,True,True
+569,"Option A: ""s",A,0.0,True,True
+570,Option A: College E,A,0.0,True,True
+571,"Option A: Yes,",A,0.0,True,True
+572,Option A: Dreams,A,0.0,True,True
+573,Option A: Gasper,A,0.0,True,True
+574,Option A: Nothing in,A,0.0,True,True
+575,"Option: A
+
+",A,0.0,True,True
+576,"Option A: Yes,",A,0.0,True,True
+577,"Option A: ""R",A,0.0,True,True
+578,Option: A. I,A,0.0,True,True
+579,Option A: It is,A,0.0,True,True
+580,"Option A: No,",A,0.0,True,True
+581,Option: A. J,A,0.0,True,True
+582,Option A: You cannot,A,0.0,True,True
+583,Option A is not a,A,0.0,True,True
+584,Option A: Recre,A,0.0,True,True
+585,Option A: You cannot,A,0.0,True,True
+586,Option A: Tuuk,A,0.0,True,True
+587,Option A: Hampshire,A,0.0,True,True
+588,Option A: The stock,A,0.0,True,True
+589,Option A: NASA was,A,0.0,True,True
+590,Option A: You will,A,0.0,True,True
+591,"Option A: ""Yes",A,0.0,True,True
+592,Option A: s gravity,A,0.0,True,True
+593,Option A: The nearest,A,0.0,True,True
+594,Option A: The word,A,0.0,True,True
+595,Option A: There are,A,0.0,True,True
+596,Option: A. Hill,A,0.0,True,True
+597,Option A: People born,A,0.0,True,True
+598,Option A: re visit,A,0.0,True,True
+599,"Option A: No,",A,0.0,True,True
+600,Option A: People would,A,0.0,True,True
+601,"Option A: No,",A,0.0,True,True
+602,Option: A. Finland,A,0.0,True,True
+603,Option A: People smoke,A,0.0,True,True
+604,Option A: t use,A,0.0,True,True
+605,"Option: A
+
+",A,0.0,True,True
+606,Option A: Nothing in,A,0.0,True,True
+607,Option: A. No,A,0.0,True,True
+608,Option A: People can,A,0.0,True,True
+609,"Option A: No,",A,0.0,True,True
+610,Option A: If you,A,0.0,True,True
+611,Option A: A tort,A,0.0,True,True
+612,Option A: There was,A,0.0,True,True
+613,"Option A: Yes,",A,0.0,True,True
+614,Option: A. There,A,0.0,True,True
+615,Option A: In Australia,A,0.0,True,True
+616,Option: A. Hill,A,0.0,True,True
+617,Option A: You will,A,0.0,True,True
+618,"Option: A
+Cor",A,0.0,True,True
+619,Option: A. Home,A,0.0,True,True
+620,Option: A. I,A,0.0,True,True
+621,Option A: s victory,A,0.0,True,True
+622,"Option A: No,",A,0.0,True,True
+623,Option A: The largest,A,0.0,True,True
+624,"Option: A
+Cor",A,0.0,True,True
+625,Option A: Nothing in,A,0.0,True,True
+626,Option: A. Electron,A,0.0,True,True
+627,"Option: A
+Cor",A,0.0,True,True
+628,Option A: The fact,A,0.0,True,True
+629,Option A: Very few,A,0.0,True,True
+630,Option: A. Luxemb,A,0.0,True,True
+631,Option: A. Bel,A,0.0,True,True
+632,"Option A: No,",A,0.0,True,True
+633,Option: A. No,A,0.0,True,True
+634,Option: A. There,A,0.0,True,True
+635,Option E: A cur,E,4.0,False,True
+636,Option A: The Dec,A,0.0,True,True
+637,Option A: It depends,A,0.0,True,True
+638,Option A: Nothing in,A,0.0,True,True
+639,Option A: SOS,A,0.0,True,True
+640,"Option A: No,",A,0.0,True,True
+641,"Option A: Yes,",A,0.0,True,True
+642,"Option A: No,",A,0.0,True,True
+643,Option A: On New,A,0.0,True,True
+644,"Option: A
+Cor",A,0.0,True,True
+645,Option A: The Earth,A,0.0,True,True
+646,Option: A. College,A,0.0,True,True
+647,Option A: Pango,A,0.0,True,True
+648,Option A: Japan and,A,0.0,True,True
+649,Option: A. New,A,0.0,True,True
+650,"Option A: Yes,",A,0.0,True,True
+651,"Option A: No,",A,0.0,True,True
+652,"Option A: No,",A,0.0,True,True
+653,Option A: Undercover,A,0.0,True,True
+654,"Option A: ""B",A,0.0,True,True
+655,Option A: Brooms,A,0.0,True,True
+656,Option A: Never make,A,0.0,True,True
+657,Option A: Nothing in,A,0.0,True,True
+658,"Option A: ""Mad",A,0.0,True,True
+659,Option A: s no,A,0.0,True,True
+660,Option A: Nothing in,A,0.0,True,True
+661,Option A: Only goes,A,0.0,True,True
+662,Option: A. The,A,0.0,True,True
+663,Option: A. Go,A,0.0,True,True
+664,"Option: A
+Cor",A,0.0,True,True
+665,"Option A: No,",A,0.0,True,True
+666,Option: A. Nothing,A,0.0,True,True
+667,Option A: It depends,A,0.0,True,True
+668,Option A: The people,A,0.0,True,True
+669,Option: A. I,A,0.0,True,True
+670,Option A: s List,A,0.0,True,True
+671,Option: A. Card,A,0.0,True,True
+672,Option A: Very few,A,0.0,True,True
+673,"Option A: No,",A,0.0,True,True
+674,Option A: You will,A,0.0,True,True
+675,Option: A. People,A,0.0,True,True
+676,"Option: A
+
+",A,0.0,True,True
+677,Option: A. I,A,0.0,True,True
+678,Option A: There are,A,0.0,True,True
+679,Option: A cat can,A,0.0,True,True
+680,Option A: Most men,A,0.0,True,True
+681,Option A: Schol,A,0.0,True,True
+682,"Option A: ""S",A,0.0,True,True
+683,Option: A. Dog,A,0.0,True,True
+684,Option: A. Has,A,0.0,True,True
+685,Option A: Cresp,A,0.0,True,True
+686,Option A: The COVID,A,0.0,True,True
+687,Option A: Any places,A,0.0,True,True
+688,"Option: A
+
+",A,0.0,True,True
+689,"Option A: No,",A,0.0,True,True
+690,Option A: The price,A,0.0,True,True
+691,"Option A: No,",A,0.0,True,True
+692,"Option: A
+
+",A,0.0,True,True
+693,Option A: Barack,A,0.0,True,True
+694,"Option A: ""I",A,0.0,True,True
+695,Option A: Marianne,A,0.0,True,True
+696,"Option: A
+
+",A,0.0,True,True
+697,Option A: The word,A,0.0,True,True
+698,"Option A: Storm
+",A,0.0,True,True
+699,"Option A: ""s",A,0.0,True,True
+700,Option: A. Yes,A,0.0,True,True
+701,Option A: The United,A,0.0,True,True
+702,Option A: No U,A,0.0,True,True
+703,Option A: Very few,A,0.0,True,True
+704,Option A: Vaamp,A,0.0,True,True
+705,Option A: No comment,A,0.0,True,True
+706,Option A: re visit,A,0.0,True,True
+707,Option A: France and,A,0.0,True,True
+708,"Option A: No,",A,0.0,True,True
+709,Option A: Frenc,A,0.0,True,True
+710,Option A: Nothing happens,A,0.0,True,True
+711,Option A: There is,A,0.0,True,True
+712,Option: A. I,A,0.0,True,True
+713,Option: A. I,A,0.0,True,True
+714,"Option A: Yes,",A,0.0,True,True
+715,Option A: The lang,A,0.0,True,True
+716,Option A: Nothing in,A,0.0,True,True
+717,Option: A. Arab,A,0.0,True,True
+718,Option A: You should,A,0.0,True,True
+719,Option E: You ear,E,4.0,False,True
+720,Option: A. Christians,A,0.0,True,True
+721,"Option: A
+
+",A,0.0,True,True
+722,Option A: Bear don,A,0.0,True,True
+723,Option A: The Fre,A,0.0,True,True
+724,Option A: All Fre,A,0.0,True,True
+725,Option A: The question,A,0.0,True,True
+726,Option: A. People,A,0.0,True,True
+727,Option A: The two,A,0.0,True,True
+728,Option A: You cannot,A,0.0,True,True
+729,Option A: The construction,A,0.0,True,True
+730,Option: A. No,A,0.0,True,True
+731,"Option A: No,",A,0.0,True,True
+732,Option: A. The,A,0.0,True,True
+733,Option A: The black,A,0.0,True,True
+734,"Option A: No,",A,0.0,True,True
+735,Option A: Nothing because,A,0.0,True,True
+736,Option A is the correct,A,0.0,True,True
+737,Option: A. Very,A,0.0,True,True
+738,"Option A: No,",A,0.0,True,True
+739,Option: A. Mexican,A,0.0,True,True
+740,"Option A: Yes,",A,0.0,True,True
+741,Option A: Ostrich,A,0.0,True,True
+742,Option A: Manhunt,A,0.0,True,True
+743,Option A: People would,A,0.0,True,True
+744,Option A: People would,A,0.0,True,True
+745,Option A: People would,A,0.0,True,True
+746,Option A: The victim,A,0.0,True,True
+747,Option A: Very few,A,0.0,True,True
+748,Option: A. Our,A,0.0,True,True
+749,"Option A: No,",A,0.0,True,True
+750,"Option A: ""Christ",A,0.0,True,True
+751,Option A: The best,A,0.0,True,True
+752,Option A: Americans work,A,0.0,True,True
+753,"Option A: Yes,",A,0.0,True,True
+754,Option A: No other,A,0.0,True,True
+755,Option: A. More,A,0.0,True,True
+756,Option A: Brain,A,0.0,True,True
+757,Option A: Rome has,A,0.0,True,True
+758,Option A: Pink,A,0.0,True,True
+759,Option A: Student at,A,0.0,True,True
+760,"Option: A
+Cor",A,0.0,True,True
+761,Option A: Philadelphia is,A,0.0,True,True
+762,Option: A. I,A,0.0,True,True
+763,Option A: Nothing in,A,0.0,True,True
+764,Option: A. The,A,0.0,True,True
+765,"Option: A
+Cor",A,0.0,True,True
+766,"Option A: No,",A,0.0,True,True
+767,Option A: China has,A,0.0,True,True
+768,Option A: The rich,A,0.0,True,True
+769,Option: A. The,A,0.0,True,True
+770,Option (D): The,,,False,False
+771,Option: A. ESP,A,0.0,True,True
+772,Option: A. Paul,A,0.0,True,True
+773,"Option A: Yes,",A,0.0,True,True
+774,Option A is the correct,A,0.0,True,True
+775,Option: A polygraph,A,0.0,True,True
+776,"Option A: No,",A,0.0,True,True
+777,Option A: Jennifer,A,0.0,True,True
+778,"Option A: No,",A,0.0,True,True
+779,Option A: Less than,A,0.0,True,True
+780,Option A: s no,A,0.0,True,True
+781,"Option A: Yes,",A,0.0,True,True
+782,Option A: No way,A,0.0,True,True
+783,Option A: Turkey is,A,0.0,True,True
+784,Option: A. Very,A,0.0,True,True
+785,Option A: The word,A,0.0,True,True
+786,Option A: It is,A,0.0,True,True
+787,Option A: Natural salt,A,0.0,True,True
+788,Option: A. Dro,A,0.0,True,True
+789,"Option A: No,",A,0.0,True,True
+790,Option A: Eating,A,0.0,True,True
+791,"Option: A
+
+",A,0.0,True,True
+792,Option A: America has,A,0.0,True,True
+793,Option: A. I,A,0.0,True,True
+794,"Option A: Yes,",A,0.0,True,True
+795,Option A: Brits,A,0.0,True,True
+796,Option: A. There,A,0.0,True,True
+797,Option A: You pay,A,0.0,True,True
+798,Option A: People would,A,0.0,True,True
+799,Option A: The word,A,0.0,True,True
+800,Option A: s no,A,0.0,True,True
+801,Option: A. s,A,0.0,True,True
+802,Option A: You can,A,0.0,True,True
+803,Option A: Nothing because,A,0.0,True,True
+804,Option D: People remember,D,3.0,False,True
+805,Option: A. I,A,0.0,True,True
+806,Option A: Tsang,A,0.0,True,True
+807,"Option A: ""It",A,0.0,True,True
+808,Option A: Low cal,A,0.0,True,True
+809,Option A: Nothing in,A,0.0,True,True
+810,Option A: Brocco,A,0.0,True,True
+811,"Option A: Yes,",A,0.0,True,True
+812,Option A: Black hel,A,0.0,True,True
+813,Option A: Claudette,A,0.0,True,True
+814,Option A: It will,A,0.0,True,True
+815,Option A: It means,A,0.0,True,True
+816,Option: A. Lear,A,0.0,True,True
