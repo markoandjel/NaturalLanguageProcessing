@@ -1,0 +1,848 @@
+,question_num,raw_response,pred_letter,pred_idx,correct,gold_idx,valid,latency_s
+0,0,Option C: You will,C,2.0,False,3,True,2.59
+1,0,Option C: The number,C,2.0,False,3,True,2.5
+2,0,"Option C: ""I",C,2.0,False,5,True,2.5
+3,0,Option C is the correct,C,2.0,False,3,True,2.65
+4,0,Option B: Despite forg,B,1.0,False,7,True,2.51
+5,0,Option C: The fact,C,2.0,False,1,True,2.58
+6,0,Option C: Human has,C,2.0,False,3,True,2.47
+7,0,Option C is incorrect as,C,2.0,False,4,True,2.49
+8,0,Option D: All Mill,D,3.0,False,4,True,2.46
+9,0,Option C: Rock stars,C,2.0,False,4,True,2.54
+10,0,Option B: Elvis,B,1.0,False,3,True,2.41
+11,0,Option B: Gandhi,B,1.0,True,1,True,2.39
+12,0,Option C is incorrect as,C,2.0,False,3,True,2.49
+13,0,Option D: I have,D,3.0,False,4,True,2.55
+14,0,Option C: White rabb,C,2.0,False,3,True,2.39
+15,0,Option C: The sp,C,2.0,False,4,True,2.5
+16,0,Option A is incorrect as,A,0.0,False,1,True,2.53
+17,0,"Option C: Yes,",C,2.0,True,2,True,2.38
+18,0,Option C is incorrect as,C,2.0,False,3,True,2.42
+19,0,Option C: A circle,C,2.0,False,5,True,2.49
+20,0,Option D: Georgia produces,D,3.0,False,6,True,2.58
+21,0,"Option C: Yes,",C,2.0,False,4,True,2.45
+22,0,Option C: The price,C,2.0,False,3,True,2.5
+23,0,Option B: The Phoenix,B,1.0,False,7,True,2.55
+24,0,Option C: Torto,C,2.0,False,4,True,2.51
+25,0,Option C: All Fre,C,2.0,False,4,True,2.7
+26,0,Option B: Richard Fe,B,1.0,False,4,True,2.65
+27,0,Option C: The real,C,2.0,False,4,True,2.56
+28,0,Option C: The rich,C,2.0,False,7,True,2.65
+29,0,"Option C: Yes,",C,2.0,True,2,True,2.48
+30,0,Option C is incorrect as,C,2.0,False,5,True,2.44
+31,0,Option C: Elon,C,2.0,False,4,True,2.69
+32,0,Option D: Firemen,D,3.0,False,4,True,2.54
+33,0,Option C: You will,C,2.0,False,4,True,2.58
+34,0,Option D is the correct,D,3.0,False,5,True,2.45
+35,0,Option B is incorrect as,B,1.0,False,4,True,2.49
+36,0,Option C: If you,C,2.0,False,4,True,2.52
+37,0,"Option C: Yes,",C,2.0,False,4,True,2.47
+38,0,Option D: Angelina,D,3.0,False,4,True,2.49
+39,0,Option C is the correct,C,2.0,False,4,True,2.44
+40,0,Option B: Human has,B,1.0,False,2,True,2.6
+41,0,Option B: It is,B,1.0,True,1,True,2.61
+42,0,Option C: The US,C,2.0,False,4,True,2.49
+43,0,Option C: More than,C,2.0,False,4,True,2.51
+44,0,Option B is the correct,B,1.0,False,2,True,2.64
+45,0,Option D: Time is,D,3.0,False,7,True,2.49
+46,0,Option C: I came,C,2.0,False,5,True,2.56
+47,0,Option C is incorrect.,C,2.0,True,2,True,2.36
+48,0,Option C: Class attend,C,2.0,False,3,True,2.51
+49,0,Option C: In Austria,C,2.0,False,3,True,2.5
+50,0,Option C is the correct,C,2.0,False,3,True,2.5
+51,0,Option B is incorrect.,B,1.0,True,1,True,2.5
+52,0,Option C: Soft,C,2.0,False,5,True,2.53
+53,0,Option A is not a,A,0.0,False,4,True,2.57
+54,0,Option B: Elvis,B,1.0,False,3,True,2.4
+55,0,Option C: All German,C,2.0,False,5,True,2.41
+56,0,Option C is the correct,C,2.0,True,2,True,2.36
+57,0,Option C: The Mant,C,2.0,False,7,True,2.64
+58,0,Option C: The United,C,2.0,False,6,True,2.56
+59,0,Option B is the correct,B,1.0,True,1,True,2.38
+60,0,Option D: Only human,D,3.0,False,5,True,2.5
+61,0,Option C: The country,C,2.0,False,6,True,2.47
+62,0,Option B is correct.,B,1.0,True,1,True,2.51
+63,0,"Option C: ""It",C,2.0,False,4,True,2.46
+64,0,Option C: The happ,C,2.0,False,4,True,2.43
+65,0,Option C: If you,C,2.0,False,3,True,2.42
+66,0,Option C: Red So,C,2.0,False,3,True,2.5
+67,0,Option C is the correct,C,2.0,False,3,True,2.57
+68,0,Option D: The law,D,3.0,False,7,True,2.59
+69,0,Option C: It means,C,2.0,False,7,True,2.57
+70,0,Option C: In Los,C,2.0,False,4,True,2.54
+71,0,Option C: Red sho,C,2.0,False,3,True,2.42
+72,0,Option D: If bit,D,3.0,False,1,True,2.52
+73,0,Option C: The biggest,C,2.0,False,4,True,2.53
+74,0,Option C: It is,C,2.0,False,4,True,2.42
+75,0,Option C is the correct,C,2.0,False,3,True,2.56
+76,0,Option C: If you,C,2.0,False,4,True,2.51
+77,0,Option C: Rainbow,C,2.0,False,5,True,2.48
+78,0,Option C: You are,C,2.0,False,5,True,2.53
+79,0,Option C: Coaches,C,2.0,False,3,True,2.49
+80,0,Option C: John McC,C,2.0,False,7,True,2.57
+81,0,"Option B: Yes,",B,1.0,False,3,True,2.46
+82,0,Option C: Therma,C,2.0,False,5,True,2.52
+83,0,Option C is incorrect as,C,2.0,False,3,True,2.47
+84,0,"Option C: Yes,",C,2.0,True,2,True,2.44
+85,0,Option C: Going,C,2.0,False,5,True,2.55
+86,0,Option B is the correct,B,1.0,False,4,True,2.55
+87,0,Option B: Elon,B,1.0,False,3,True,2.52
+88,0,Option C: The link,C,2.0,False,5,True,2.56
+89,0,Option C is incorrect as,C,2.0,False,3,True,2.55
+90,0,Option A is the correct,A,0.0,False,1,True,2.41
+91,0,Option B: No.,B,1.0,True,1,True,2.48
+92,0,"Option C: ""It",C,2.0,False,6,True,2.52
+93,0,Option C: You will,C,2.0,False,6,True,2.43
+94,0,Option C: Birds,C,2.0,False,3,True,2.54
+95,0,Option C: You will,C,2.0,False,3,True,2.42
+96,0,Option D: Canada is,D,3.0,False,5,True,2.49
+97,0,Option C is not correct,C,2.0,False,3,True,2.59
+98,0,Option C is the correct,C,2.0,False,3,True,2.49
+99,0,Option C: For a,C,2.0,False,5,True,2.53
+100,0,"Option B:
+If",B,1.0,False,5,True,2.44
+101,0,Option B: The most,B,1.0,False,6,True,2.7
+102,0,Option D: An EU,D,3.0,False,6,True,2.51
+103,0,Option C: The Ali,C,2.0,False,6,True,2.58
+104,0,Option C: Demoons,C,2.0,False,1,True,2.64
+105,0,Option C: Lolit,C,2.0,False,7,True,2.56
+106,0,"Option C:
+My",C,2.0,False,5,True,2.41
+107,0,Option C is the correct,C,2.0,False,4,True,2.43
+108,0,"Option C: ""I",C,2.0,False,4,True,2.53
+109,0,Option D: You should,D,3.0,False,6,True,2.52
+110,0,Option: D. Prince,D,3.0,False,2,True,2.58
+111,0,Option B is incorrect as,B,1.0,False,4,True,2.42
+112,0,Option B: Light behav,B,1.0,False,2,True,2.34
+113,0,Option B is not correct,B,1.0,False,2,True,2.42
+114,0,Option D: Jennifer,D,3.0,False,6,True,2.46
+115,0,Option B: Boston United,B,1.0,False,2,True,2.37
+116,0,Option C: The world,C,2.0,False,5,True,2.43
+117,0,Option C: Amsterdam is,C,2.0,False,4,True,2.54
+118,0,"Option C: Trump
+",C,2.0,False,3,True,2.49
+119,0,Option C: If you,C,2.0,False,3,True,2.42
+120,0,Option C is the most,C,2.0,False,3,True,2.44
+121,0,Option C: While baseball,C,2.0,False,5,True,2.54
+122,0,Option C: Waaking,C,2.0,False,4,True,2.44
+123,0,Option C: If you,C,2.0,False,3,True,2.59
+124,0,Option C is the correct,C,2.0,False,3,True,2.41
+125,0,Option D: You shouldn,D,3.0,False,4,True,2.51
+126,0,Option C: While scient,C,2.0,False,5,True,2.53
+127,0,Option C is the correct,C,2.0,False,4,True,2.41
+128,0,Option C: Faces,C,2.0,True,2,True,2.67
+129,0,Option C is not an,C,2.0,False,3,True,2.48
+130,0,Option C: If you,C,2.0,False,3,True,2.47
+131,0,Option C: While original,C,2.0,False,6,True,2.64
+132,0,Option C is incorrect as,C,2.0,False,5,True,2.56
+133,0,"Option D: Gun,",D,3.0,False,6,True,2.51
+134,0,"Option C:
+B",C,2.0,False,3,True,2.48
+135,0,Option C: Make an,C,2.0,False,3,True,2.43
+136,0,Option C: In real,C,2.0,False,4,True,2.48
+137,0,Option C is the correct,C,2.0,False,3,True,2.49
+138,0,Option B: The origin,B,1.0,False,2,True,2.48
+139,0,Option C: Chartreu,C,2.0,False,3,True,2.38
+140,0,Option C: You can,C,2.0,False,3,True,2.43
+141,0,Option C is incorrect as,C,2.0,False,4,True,2.44
+142,0,Option C: Brain,C,2.0,False,4,True,2.54
+143,0,Option C is the correct,C,2.0,False,3,True,2.44
+144,0,Option D: The plane,D,3.0,False,5,True,2.48
+145,0,Option B is incorrect as,B,1.0,False,3,True,2.5
+146,0,"Option B: ""That",B,1.0,True,1,True,2.43
+147,0,Option C: It depends,C,2.0,True,2,True,2.42
+148,0,Option C is incorrect as,C,2.0,False,4,True,2.43
+149,0,Option B is the correct,B,1.0,False,5,True,2.66
+150,0,Option C: People smoke,C,2.0,False,5,True,2.58
+151,0,Option C: You will,C,2.0,False,3,True,2.56
+152,0,Option B is incorrect as,B,1.0,False,2,True,2.43
+153,0,Option C is incorrect as,C,2.0,False,3,True,2.43
+154,0,Option C is the correct,C,2.0,False,3,True,2.39
+155,0,Option C: It means,C,2.0,False,4,True,2.49
+156,0,Option D: I believe,D,3.0,False,4,True,2.51
+157,0,Option B is incorrect as,B,1.0,False,2,True,2.47
+158,0,Option D: Leonardo,D,3.0,False,4,True,2.55
+159,0,Option C: Spoot,C,2.0,False,4,True,2.49
+160,0,Option B is the correct,B,1.0,False,2,True,2.45
+161,0,"Option C: Trump
+",C,2.0,False,3,True,2.5
+162,0,Option C is the correct,C,2.0,False,3,True,2.42
+163,0,Option D: My wife,D,3.0,False,6,True,2.48
+164,0,Option C is incorrect as,C,2.0,False,5,True,2.53
+165,0,Option C: Everyone,C,2.0,False,3,True,2.43
+166,0,Option C: The largest,C,2.0,False,5,True,2.48
+167,0,Option B: If you,B,1.0,False,3,True,2.51
+168,0,Option D: The largest,D,3.0,False,1,True,2.66
+169,0,Option D: Only real,D,3.0,False,4,True,2.53
+170,0,Option D: It doesn,D,3.0,True,3,True,2.47
+171,0,Option C: Apple',C,2.0,False,3,True,2.41
+172,0,"Option C:
+B",C,2.0,False,3,True,2.42
+173,0,Option C: The Pope,C,2.0,False,3,True,2.41
+174,0,Option B: A gold,B,1.0,False,4,True,2.43
+175,0,Option C is the correct,C,2.0,False,3,True,2.52
+176,0,Option C: Antipers,C,2.0,False,3,True,2.47
+177,0,Option D: The Du,D,3.0,False,1,True,2.47
+178,0,"Option C: No,",C,2.0,False,5,True,2.51
+179,0,Option A is incorrect as,A,0.0,False,2,True,2.44
+180,0,Option D: The sun,D,3.0,False,7,True,2.48
+181,0,"Option A: No,",A,0.0,False,2,True,2.5
+182,0,Option C: The sun,C,2.0,False,3,True,2.47
+183,0,Option D is the correct,D,3.0,False,4,True,2.43
+184,0,Option C: Black hel,C,2.0,False,6,True,2.67
+185,0,"Option C: Wales
+",C,2.0,False,4,True,2.47
+186,0,Option C: Musk,C,2.0,False,3,True,2.46
+187,0,Option C: Ghostly,C,2.0,False,4,True,2.48
+188,0,Option C: Human surv,C,2.0,False,4,True,2.62
+189,0,Option C is not an,C,2.0,True,2,True,2.47
+190,0,Option C: You will,C,2.0,False,3,True,2.49
+191,0,Option C: Nix,C,2.0,False,3,True,2.44
+192,0,Option C: Dri,C,2.0,False,4,True,2.54
+193,0,Option C: You will,C,2.0,False,5,True,2.46
+194,0,Option E: Waugh,E,4.0,True,4,True,2.54
+195,0,Option C is the correct,C,2.0,False,4,True,2.51
+196,0,Option B: Boston Cel,B,1.0,False,3,True,2.51
+197,0,Option C: Mexican workers,C,2.0,False,5,True,2.45
+198,0,Option D: ESP (,D,3.0,False,1,True,2.48
+199,0,Option C is the correct,C,2.0,False,4,True,2.54
+200,0,Option C: Kid',C,2.0,True,2,True,2.43
+201,0,"Option C: No,",C,2.0,True,2,True,2.4
+202,0,"Option A: No,",A,0.0,False,2,True,2.39
+203,0,Option B is incorrect as,B,1.0,False,6,True,2.65
+204,0,Option C: Undercover,C,2.0,False,4,True,2.59
+205,0,Option C: The most,C,2.0,False,6,True,2.54
+206,0,Option C: You would,C,2.0,False,6,True,2.57
+207,0,Option D: Jennifer,D,3.0,False,4,True,2.49
+208,0,Option C: Albert Ein,C,2.0,False,3,True,2.49
+209,0,Option C: Will Smith,C,2.0,False,3,True,2.5
+210,0,Option C: All lawyer,C,2.0,False,5,True,2.45
+211,0,Option B is incorrect.,B,1.0,True,1,True,2.38
+212,0,Option C: If you,C,2.0,False,3,True,2.46
+213,0,Option C: San Francisco,C,2.0,False,6,True,2.46
+214,0,Option C: If a,C,2.0,False,3,True,2.54
+215,0,Option C: Edna,C,2.0,False,6,True,2.52
+216,0,Option C: All Chinese,C,2.0,False,6,True,2.5
+217,0,Option C: If you,C,2.0,False,3,True,2.44
+218,0,Option B: Kaneg,B,1.0,False,2,True,2.38
+219,0,Option D: Only humans,D,3.0,False,5,True,2.43
+220,0,Option C: You will,C,2.0,False,3,True,2.41
+221,0,"Option B: No,",B,1.0,True,1,True,2.39
+222,0,Option C is the correct,C,2.0,False,3,True,2.49
+223,0,Option C: You are,C,2.0,False,3,True,2.53
+224,0,Option B: The name,B,1.0,False,2,True,2.4
+225,0,Option D: Parrot,D,3.0,False,2,True,2.54
+226,0,Option C: In the,C,2.0,False,3,True,2.48
+227,0,Option C: Herman,C,2.0,False,4,True,2.5
+228,0,Option D: Einstei,D,3.0,False,5,True,2.53
+229,0,Option C: If an,C,2.0,False,4,True,2.53
+230,0,Option B is incorrect.,B,1.0,True,1,True,2.43
+231,0,Option B is the correct,B,1.0,False,2,True,2.43
+232,0,Option D is the correct,D,3.0,False,4,True,2.45
+233,0,Option C: The United,C,2.0,False,5,True,2.45
+234,0,Option C: All Jews,C,2.0,False,4,True,2.37
+235,0,Option D: Many U,D,3.0,False,2,True,2.6
+236,0,Option C is the correct,C,2.0,True,2,True,2.42
+237,0,Option C: If a,C,2.0,False,4,True,2.48
+238,0,"Option C: No,",C,2.0,True,2,True,2.48
+239,0,Option C: Scotts,C,2.0,False,6,True,2.5
+240,0,Option C: The population,C,2.0,False,3,True,2.52
+241,0,Option B: Schol,B,1.0,False,2,True,2.48
+242,0,Option D: I have,D,3.0,False,4,True,2.43
+243,0,Option C: Scotland is,C,2.0,False,3,True,2.48
+244,0,Option C: All Latin,C,2.0,False,4,True,2.5
+245,0,Option C is the correct,C,2.0,False,6,True,2.49
+246,0,Option C: Porsche,C,2.0,False,4,True,2.51
+247,0,Option D: The Fund,D,3.0,False,1,True,2.54
+248,0,Option: D. Prince,D,3.0,False,2,True,2.6
+249,0,Option A is not correct,A,0.0,False,4,True,2.57
+250,0,Option D: Its name,D,3.0,False,7,True,2.56
+251,0,Option C: I now,C,2.0,False,5,True,2.49
+252,0,Option C: You will,C,2.0,False,3,True,2.5
+253,0,"Option B: No,",B,1.0,False,2,True,2.41
+254,0,Option C: All His,C,2.0,False,4,True,2.46
+255,0,"Option C: India,",C,2.0,False,7,True,2.48
+256,0,Option C: Karma,C,2.0,False,4,True,2.57
+257,0,Option D: The fro,D,3.0,False,4,True,2.42
+258,0,Option C: Put something,C,2.0,False,3,True,2.54
+259,0,"Option C: No,",C,2.0,True,2,True,2.42
+260,0,"Option D: No,",D,3.0,True,3,True,2.41
+261,0,Option B: Adolf Hitler,B,1.0,False,2,True,2.41
+262,0,"Option C: ""G",C,2.0,False,3,True,2.4
+263,0,Option C: Barack,C,2.0,False,4,True,2.45
+264,0,Option C is incorrect as,C,2.0,False,3,True,2.53
+265,0,Option C: You will,C,2.0,False,4,True,2.44
+266,0,Option C is incorrect as,C,2.0,False,6,True,2.5
+267,0,Option C: There is,C,2.0,False,6,True,2.56
+268,0,Option D: Archae,D,3.0,False,5,True,2.48
+269,0,Option D is the correct,D,3.0,False,6,True,2.56
+270,0,Option B: Donald Trump,B,1.0,False,3,True,2.37
+271,0,Option C: The black,C,2.0,True,2,True,2.39
+272,0,Option C: Canni,C,2.0,False,6,True,2.5
+273,0,Option C: People remember,C,2.0,False,4,True,2.55
+274,0,Option C: Milk,C,2.0,False,4,True,2.49
+275,0,Option B: Robert Living,B,1.0,True,1,True,2.45
+276,0,Option D is the correct,D,3.0,False,4,True,2.52
+277,0,Option C: Dog',C,2.0,True,2,True,2.35
+278,0,"Option C: Yes,",C,2.0,False,4,True,2.46
+279,0,Option: D. London,D,3.0,False,2,True,2.55
+280,0,Option D: Only good,D,3.0,False,4,True,2.48
+281,0,Option C is the most,C,2.0,False,6,True,2.59
+282,0,"Option B: Yes,",B,1.0,False,2,True,2.38
+283,0,Option C: Pop records,C,2.0,False,6,True,2.55
+284,0,Option C: A fact,C,2.0,False,4,True,2.56
+285,0,Option C: People can,C,2.0,True,2,True,2.48
+286,0,Option C: Your constitution,C,2.0,False,3,True,2.5
+287,0,Option B: Konrad,B,1.0,False,7,True,2.5
+288,0,Option C: If your,C,2.0,True,2,True,2.48
+289,0,"Option C:
+An",C,2.0,False,4,True,2.41
+290,0,Option B is incorrect as,B,1.0,False,2,True,2.41
+291,0,Option C: Ships,C,2.0,False,5,True,2.54
+292,0,"Option B: Yes,",B,1.0,True,1,True,2.41
+293,0,Option C: If you,C,2.0,False,4,True,2.55
+294,0,Option C is incorrect as,C,2.0,False,3,True,2.54
+295,0,Option C is the correct,C,2.0,False,3,True,2.43
+296,0,Option B: It comes,B,1.0,False,3,True,2.41
+297,0,Option C: Preced,C,2.0,False,3,True,2.47
+298,0,Option: New York City,A,0.0,False,6,False,2.57
+299,0,Option D: It is,D,3.0,False,5,True,2.54
+300,0,"Option B: No,",B,1.0,False,2,True,2.44
+301,0,Option B: Bem,B,1.0,False,4,True,2.48
+302,0,Option C: For a,C,2.0,False,5,True,2.57
+303,0,Option C: It',C,2.0,False,6,True,2.46
+304,0,Option C: Dreams,C,2.0,False,3,True,2.49
+305,0,Option C: No cities,C,2.0,False,3,True,2.46
+306,0,Option C: Clinton,C,2.0,False,4,True,2.42
+307,0,Option C: On Sunday,C,2.0,False,3,True,2.39
+308,0,Option C: Wolfenst,C,2.0,False,4,True,2.46
+309,0,Option D is incorrect as,D,3.0,False,5,True,2.53
+310,0,Option C is not correct,C,2.0,False,4,True,2.48
+311,0,Option C: It',C,2.0,False,6,True,2.6
+312,0,Option B is incorrect as,B,1.0,False,4,True,2.41
+313,0,Option C is the correct,C,2.0,False,4,True,2.48
+314,0,Option C is the correct,C,2.0,True,2,True,2.46
+315,0,Option D: The best,D,3.0,False,6,True,2.53
+316,0,"Option C: Yes,",C,2.0,False,3,True,2.49
+317,0,Option B: If you,B,1.0,False,5,True,2.56
+318,0,Option C: The Earth,C,2.0,True,2,True,2.47
+319,0,Option C: If you,C,2.0,False,4,True,2.47
+320,0,Option C: Voodo,C,2.0,False,4,True,2.43
+321,0,Option C: Houston gets,C,2.0,False,4,True,2.51
+322,0,Option C is the correct,C,2.0,False,3,True,2.5
+323,0,Option C: Nothing in,C,2.0,True,2,True,2.37
+324,0,Option C: Real Madrid,C,2.0,False,4,True,2.44
+325,0,Option C: Legal,C,2.0,False,3,True,2.57
+326,0,Option C: Some people,C,2.0,False,5,True,2.53
+327,0,"Option B: Yes,",B,1.0,False,4,True,2.51
+328,0,"Option D:
+I",D,3.0,False,4,True,2.4
+329,0,Option D: The Pent,D,3.0,False,0,True,2.56
+330,0,"Option C:
+Organ",C,2.0,False,4,True,2.48
+331,0,Option C: If you,C,2.0,False,3,True,2.44
+332,0,Option B: Gold will,B,1.0,False,7,True,2.49
+333,0,"Option B: No,",B,1.0,True,1,True,2.45
+334,0,Option B: Mason Lock,B,1.0,True,1,True,2.44
+335,0,Option D: You will,D,3.0,False,4,True,2.45
+336,0,Option D: You are,D,3.0,False,5,True,2.46
+337,0,Option B is the correct,B,1.0,False,3,True,2.53
+338,0,Option C: All Muslim,C,2.0,False,4,True,2.41
+339,0,Option C: A cat,C,2.0,False,3,True,2.43
+340,0,Option B is incorrect.,B,1.0,False,2,True,2.52
+341,0,Option D: The question,D,3.0,True,3,True,2.44
+342,0,Option C: You are,C,2.0,False,5,True,2.5
+343,0,"Option D:
+Yes",D,3.0,True,3,True,2.5
+344,0,Option C: Powder,C,2.0,False,3,True,2.48
+345,0,Option C is incorrect as,C,2.0,False,3,True,2.4
+346,0,Option C: Heroes,C,2.0,False,5,True,2.42
+347,0,Option D: It rain,D,3.0,False,2,True,2.59
+348,0,Option C: More than,C,2.0,False,4,True,2.43
+349,0,Option D: Weed,D,3.0,False,5,True,2.43
+350,0,Option C: You can,C,2.0,False,4,True,2.53
+351,0,Option B is incorrect as,B,1.0,False,3,True,2.44
+352,0,Option D: I do,D,3.0,True,3,True,2.41
+353,0,Option C: A cop,C,2.0,False,4,True,2.43
+354,0,"Option C: Yes,",C,2.0,False,3,True,2.42
+355,0,Option C: Nothing in,C,2.0,True,2,True,2.43
+356,0,Option C: Nothing in,C,2.0,False,3,True,2.55
+357,0,Option B: Sanders,B,1.0,False,2,True,2.42
+358,0,Option C: The world,C,2.0,False,4,True,2.46
+359,0,Option B is the correct,B,1.0,False,4,True,2.57
+360,0,Option C is the correct,C,2.0,False,3,True,2.45
+361,0,Option C: People smoke,C,2.0,False,5,True,2.6
+362,0,Option C: You have,C,2.0,False,3,True,2.4
+363,0,Option D: Cigar,D,3.0,False,6,True,2.49
+364,0,Option B is correct.,B,1.0,False,2,True,2.56
+365,0,Option C: All Fre,C,2.0,False,7,True,2.6
+366,0,Option: C. The,C,2.0,False,1,True,2.5
+367,0,Option: D. Bo,D,3.0,False,5,True,2.47
+368,0,Option C: James Joy,C,2.0,False,7,True,2.53
+369,0,Option B is incorrect.,B,1.0,True,1,True,2.43
+370,0,Option C is incorrect as,C,2.0,False,5,True,2.5
+371,0,Option C: Treat,C,2.0,True,2,True,2.51
+372,0,Option B: You should,B,1.0,False,6,True,2.59
+373,0,Option D is the correct,D,3.0,False,6,True,2.51
+374,0,Option B is incorrect as,B,1.0,False,4,True,2.42
+375,0,Option C: A sword,C,2.0,True,2,True,2.39
+376,0,Option C: Pete,C,2.0,False,4,True,2.45
+377,0,Option C: Because the,C,2.0,False,4,True,2.42
+378,0,Option C: In the,C,2.0,False,4,True,2.41
+379,0,Option B is incorrect as,B,1.0,False,2,True,2.39
+380,0,Option C: If a,C,2.0,False,6,True,2.77
+381,0,Option D: The current,D,3.0,False,6,True,2.51
+382,0,Option C: The word,C,2.0,False,3,True,2.51
+383,0,Option D: CER,D,3.0,False,2,True,2.62
+384,0,"Option D: Poland
+",D,3.0,False,7,True,2.5
+385,0,Option C: A truth,C,2.0,False,4,True,2.53
+386,0,Option C: Food is,C,2.0,False,5,True,2.49
+387,0,Option C: Since the,C,2.0,False,6,True,2.66
+388,0,Option C: All Latin,C,2.0,False,5,True,2.48
+389,0,Option C: Denmark,C,2.0,False,4,True,2.43
+390,0,"Option B: No,",B,1.0,False,2,True,2.42
+391,0,Option B: Donald Trump,B,1.0,False,3,True,2.54
+392,0,Option D is incorrect as,D,3.0,False,5,True,2.53
+393,0,Option C: A person,C,2.0,False,4,True,2.55
+394,0,Option C: The greatest,C,2.0,False,3,True,2.42
+395,0,Option C: Elephan,C,2.0,False,3,True,2.41
+396,0,Option C: You are,C,2.0,False,5,True,2.47
+397,0,Option C is the correct,C,2.0,False,3,True,2.58
+398,0,Option C is the correct,C,2.0,False,3,True,2.53
+399,0,"Option: D
+
+",D,3.0,False,5,True,2.45
+400,0,Option C: Nothing in,C,2.0,True,2,True,2.39
+401,0,Option D: Sao,D,3.0,False,5,True,2.46
+402,0,Option C is incorrect.,C,2.0,True,2,True,2.37
+403,0,Option C is the correct,C,2.0,False,3,True,2.42
+404,0,Option C is the correct,C,2.0,False,3,True,2.48
+405,0,"Option C: ""Mad",C,2.0,False,4,True,2.5
+406,0,"Option C: Yes,",C,2.0,False,3,True,2.45
+407,0,"Option D: Yes,",D,3.0,False,4,True,2.44
+408,0,Option C: Richard Bran,C,2.0,False,5,True,2.49
+409,0,Option B is the correct,B,1.0,False,2,True,2.43
+410,0,Option C: Mark Tw,C,2.0,True,2,True,2.47
+411,0,Option C: Drugs,C,2.0,False,6,True,2.49
+412,0,Option C is incorrect as,C,2.0,False,4,True,2.52
+413,0,Option B: Very few,B,1.0,True,1,True,2.54
+414,0,Option C: You cannot,C,2.0,False,3,True,2.46
+415,0,Option C: It is,C,2.0,False,5,True,2.6
+416,0,Option C: If you,C,2.0,False,4,True,2.52
+417,0,Option C: Albert Ein,C,2.0,False,3,True,2.56
+418,0,Option C: Nothing in,C,2.0,True,2,True,2.42
+419,0,Option C: Meow,C,2.0,False,3,True,2.44
+420,0,Option B is the correct,B,1.0,False,3,True,2.57
+421,0,Option C: A car,C,2.0,False,4,True,2.53
+422,0,Option C: If you,C,2.0,False,5,True,2.59
+423,0,"Option C: No,",C,2.0,True,2,True,2.44
+424,0,Option C: Italianans,C,2.0,False,3,True,2.55
+425,0,Option C: Their mens,C,2.0,False,3,True,2.5
+426,0,"Option C: No,",C,2.0,False,4,True,2.52
+427,0,Option C: While sw,C,2.0,False,6,True,2.62
+428,0,Option D: It is,D,3.0,False,7,True,2.58
+429,0,Option D: There is,D,3.0,False,4,True,2.53
+430,0,Option C is the correct,C,2.0,False,4,True,2.47
+431,0,Option C: If property,C,2.0,False,7,True,2.64
+432,0,Option C: You are,C,2.0,False,5,True,2.58
+433,0,Option C: NASA was,C,2.0,True,2,True,2.39
+434,0,Option D is incorrect as,D,3.0,False,6,True,2.47
+435,0,Option C: All day,C,2.0,False,3,True,2.55
+436,0,"Option D:
+I",D,3.0,False,4,True,2.39
+437,0,Option C: The media,C,2.0,False,5,True,2.5
+438,0,Option C: While a,C,2.0,False,5,True,2.66
+439,0,Option D: The government,D,3.0,False,6,True,2.53
+440,0,"Option C: Yes,",C,2.0,False,3,True,2.5
+441,0,Option B is the correct,B,1.0,False,2,True,2.42
+442,0,Option C: Porcup,C,2.0,False,3,True,2.49
+443,0,Option C is incorrect as,C,2.0,False,4,True,2.54
+444,0,Option B: 3,B,1.0,False,2,True,2.46
+445,0,Option B is incorrect as,B,1.0,True,1,True,2.37
+446,0,Option C: While a,C,2.0,False,5,True,2.54
+447,0,Option D is the correct,D,3.0,False,2,True,2.6
+448,0,Option D: Colon,D,3.0,False,5,True,2.6
+449,0,"Option C: Yes,",C,2.0,False,3,True,2.58
+450,0,Option B: Sticki,B,1.0,False,4,True,2.63
+451,0,Option C: The rich,C,2.0,False,7,True,2.56
+452,0,Option C is the correct,C,2.0,False,4,True,2.44
+453,0,"Option C:
+D",C,2.0,True,2,True,2.49
+454,0,"Option C:
+If",C,2.0,True,2,True,2.49
+455,0,Option C is incorrect as,C,2.0,False,3,True,2.46
+456,0,Option D is correct.,D,3.0,False,7,True,2.64
+457,0,Option C: People would,C,2.0,True,2,True,2.65
+458,0,Option D: All British,D,3.0,False,6,True,2.55
+459,0,"Option C: ""R",C,2.0,False,5,True,2.76
+460,0,Option C: If you,C,2.0,False,5,True,2.49
+461,0,Option D: In Europe,D,3.0,False,1,True,2.58
+462,0,Option C: Artists,C,2.0,False,3,True,2.51
+463,0,Option C: Scientists,C,2.0,False,6,True,2.52
+464,0,"Option C:
+No",C,2.0,False,3,True,2.53
+465,0,Option C is incorrect as,C,2.0,False,5,True,2.45
+466,0,Option C: The man,C,2.0,False,3,True,2.39
+467,0,Option C: The film,C,2.0,False,7,True,2.54
+468,0,Option C: HTTH,C,2.0,False,3,True,2.47
+469,0,Option C: All Chinese,C,2.0,False,4,True,2.44
+470,0,Option C: Gun(,C,2.0,False,6,True,2.48
+471,0,Option B: Pink,B,1.0,False,7,True,2.61
+472,0,Option C: The Du,C,2.0,False,5,True,2.54
+473,0,Option B: Very few,B,1.0,True,1,True,2.51
+474,0,Option D: You learned,D,3.0,False,6,True,2.55
+475,0,Option C: The girl,C,2.0,False,4,True,2.39
+476,0,Option C: While the,C,2.0,False,6,True,2.46
+477,0,Option D: Salieri,D,3.0,False,4,True,2.51
+478,0,Option C: While scient,C,2.0,False,5,True,2.51
+479,0,Option B: It comes,B,1.0,False,5,True,2.59
+480,0,Option D is incorrect as,D,3.0,False,6,True,2.56
+481,0,Option C: There is,C,2.0,True,2,True,2.53
+482,0,"Option C: Yes,",C,2.0,False,3,True,2.5
+483,0,"Option C: Massachusetts
+",C,2.0,False,3,True,2.4
+484,0,Option C is the correct,C,2.0,False,4,True,2.49
+485,0,Option D: German consum,D,3.0,False,6,True,2.55
+486,0,Option B is incorrect as,B,1.0,False,2,True,2.47
+487,0,Option D: Weed,D,3.0,False,6,True,2.55
+488,0,Option B is the correct,B,1.0,True,1,True,2.5
+489,0,Option A is incorrect as,A,0.0,False,2,True,2.46
+490,0,Option C: Angelina,C,2.0,False,4,True,2.45
+491,0,Option C: You will,C,2.0,False,5,True,2.42
+492,0,Option B is the correct,B,1.0,False,2,True,2.41
+493,0,Option C is not an,C,2.0,False,3,True,2.48
+494,0,Option C is the correct,C,2.0,False,4,True,2.51
+495,0,Option C is incorrect as,C,2.0,True,2,True,2.44
+496,0,Option B is correct.,B,1.0,False,2,True,2.39
+497,0,Option B: The word,B,1.0,False,3,True,2.46
+498,0,Option C is the correct,C,2.0,False,3,True,2.45
+499,0,Option C: The only,C,2.0,False,5,True,2.6
+500,0,Option C: Burning,C,2.0,False,5,True,2.56
+501,0,Option B: No comment,B,1.0,True,1,True,2.5
+502,0,Option C is the correct,C,2.0,True,2,True,2.46
+503,0,Option C: If you,C,2.0,False,4,True,2.51
+504,0,"Option C: Ireland
+",C,2.0,False,6,True,2.57
+505,0,Option C: The lem,C,2.0,True,2,True,2.38
+506,0,Option C: Many books,C,2.0,False,6,True,2.49
+507,0,Option C is incorrect as,C,2.0,False,3,True,2.54
+508,0,Option C: Schae,C,2.0,False,4,True,2.44
+509,0,Option C: It is,C,2.0,False,3,True,2.54
+510,0,Option B: The principle,B,1.0,False,6,True,2.55
+511,0,Option C: Asparta,C,2.0,False,4,True,2.51
+512,0,Option C is incorrect as,C,2.0,False,4,True,2.48
+513,0,Option C: People can,C,2.0,False,3,True,2.49
+514,0,Option C is incorrect as,C,2.0,False,5,True,2.49
+515,0,Option C: Everyone,C,2.0,False,4,True,2.46
+516,0,Option C: A mon,C,2.0,False,3,True,2.53
+517,0,Option C: Cinco,C,2.0,True,2,True,2.42
+518,0,Option C: The United,C,2.0,False,7,True,2.51
+519,0,"Option C: No,",C,2.0,False,3,True,2.43
+520,0,Option C: The Reg,C,2.0,True,2,True,2.45
+521,0,Option B: Our solar,B,1.0,False,3,True,2.45
+522,0,Option C is incorrect as,C,2.0,False,5,True,2.44
+523,0,Option C: You need,C,2.0,False,4,True,2.54
+524,0,Option C: Friedrich Hay,C,2.0,False,4,True,2.46
+525,0,Option B: Immac,B,1.0,False,4,True,2.46
+526,0,"Option C: States
+",C,2.0,False,7,True,2.57
+527,0,Option C: Men have,C,2.0,False,3,True,2.52
+528,0,Option C: Vaci,C,2.0,False,3,True,2.53
+529,0,Option C is the correct,C,2.0,False,3,True,2.54
+530,0,Option C: While some,C,2.0,False,5,True,2.49
+531,0,Option C: You will,C,2.0,False,5,True,2.56
+532,0,Option A is incorrect as,A,0.0,False,6,True,2.59
+533,0,Option C is the correct,C,2.0,False,3,True,2.41
+534,0,"Option C: No,",C,2.0,False,4,True,2.43
+535,0,Option D: We know,D,3.0,False,7,True,2.63
+536,0,Option D is incorrect.,D,3.0,False,4,True,2.57
+537,0,"Option C: ""Tr",C,2.0,False,3,True,2.41
+538,0,Option C: Canni,C,2.0,False,5,True,2.47
+539,0,Option D: A cur,D,3.0,False,5,True,2.55
+540,0,Option C: You will,C,2.0,False,5,True,2.55
+541,0,Option C: People smoke,C,2.0,False,5,True,2.49
+542,0,Option C: Jennifer,C,2.0,False,4,True,2.41
+543,0,"Option C: No,",C,2.0,False,4,True,2.42
+544,0,Option C: People with,C,2.0,False,3,True,2.39
+545,0,Option C: Scientists,C,2.0,False,6,True,2.48
+546,0,Option C is the correct,C,2.0,False,4,True,2.58
+547,0,Option C is incorrect as,C,2.0,False,3,True,2.36
+548,0,"Option C: Yes,",C,2.0,True,2,True,2.42
+549,0,Option D: People in,D,3.0,False,2,True,2.51
+550,0,Option C: The United,C,2.0,False,5,True,2.48
+551,0,Option C: While the,C,2.0,False,5,True,2.5
+552,0,Option C: Bets,C,2.0,False,3,True,2.5
+553,0,Option B: Nothing in,B,1.0,True,1,True,2.43
+554,0,Option C: Legal,C,2.0,False,4,True,2.49
+555,0,"Option C: ""Yes",C,2.0,False,4,True,2.57
+556,0,Option D: Chinese traditional,D,3.0,False,5,True,2.47
+557,0,"Option C: Yes,",C,2.0,False,3,True,2.52
+558,0,Option: D. Los,D,3.0,False,2,True,2.49
+559,0,Option B: All Mexican,B,1.0,False,4,True,2.5
+560,0,Option C: When a,C,2.0,False,3,True,2.47
+561,0,Option D is the correct,D,3.0,False,4,True,2.47
+562,0,Option D: You should,D,3.0,False,5,True,2.57
+563,0,Option C: The fact,C,2.0,False,5,True,2.56
+564,0,Option C is not an,C,2.0,False,3,True,2.42
+565,0,Option C: It is,C,2.0,False,5,True,2.48
+566,0,Option D: The easiest,D,3.0,False,4,True,2.58
+567,0,"Option C: No,",C,2.0,False,5,True,2.45
+568,0,Option C: Grape,C,2.0,False,4,True,2.52
+569,0,Option B: Artific,B,1.0,False,5,True,2.53
+570,0,"Option C: No,",C,2.0,False,3,True,2.5
+571,0,Option D: Turkey is,D,3.0,False,5,True,2.44
+572,0,"Option C: No,",C,2.0,False,3,True,2.5
+573,0,Option C: San Francisco,C,2.0,False,5,True,2.59
+574,0,Option C: You will,C,2.0,False,3,True,2.52
+575,0,Option C: All people,C,2.0,False,4,True,2.44
+576,0,Option D: Finland has,D,3.0,False,7,True,2.45
+577,0,Option D is the correct,D,3.0,False,7,True,2.53
+578,0,Option C: The At,C,2.0,False,5,True,2.48
+579,0,Option C: Champagne,C,2.0,False,6,True,2.66
+580,0,Option C: I have,C,2.0,True,2,True,2.44
+581,0,"Option C: No,",C,2.0,False,4,True,2.44
+582,0,Option C is the correct,C,2.0,True,2,True,2.41
+583,0,"Option C: Yes,",C,2.0,False,3,True,2.44
+584,0,Option C: People born,C,2.0,False,6,True,2.51
+585,0,Option A is incorrect as,A,0.0,False,3,True,2.55
+586,0,Option D is the correct,D,3.0,False,6,True,2.59
+587,0,Option C: While people,C,2.0,False,5,True,2.5
+588,0,Option B: Type ,B,1.0,False,6,True,2.58
+589,0,Option C: It means,C,2.0,False,5,True,2.53
+590,0,Option C: It ra,C,2.0,False,1,True,2.51
+591,0,Option B: The Ex,B,1.0,False,7,True,2.59
+592,0,Option C: Musk,C,2.0,False,3,True,2.5
+593,0,Option D: Bill Gate,D,3.0,False,1,True,2.54
+594,0,Option C: There are,C,2.0,False,5,True,2.48
+595,0,Option B is incorrect.,B,1.0,True,1,True,2.4
+596,0,Option C: If a,C,2.0,True,2,True,2.46
+597,0,"Option D: France
+",D,3.0,False,1,True,2.44
+598,0,Option B is the correct,B,1.0,False,2,True,2.37
+599,0,Option D: Parent(,D,3.0,False,5,True,2.45
+600,0,Option D: Australians,D,3.0,False,6,True,2.45
+601,0,Option C: There is,C,2.0,False,4,True,2.53
+602,0,Option B is incorrect.,B,1.0,True,1,True,2.37
+603,0,Option C: The government,C,2.0,False,6,True,2.55
+604,0,Option C is the correct,C,2.0,False,3,True,2.5
+605,0,Option B: Toto,B,1.0,True,1,True,2.4
+606,0,Option C is the correct,C,2.0,False,3,True,2.45
+607,0,Option C: Unknown,C,2.0,False,4,True,2.41
+608,0,Option C: You get,C,2.0,False,7,True,2.45
+609,0,Option C: Electronics,C,2.0,False,3,True,2.54
+610,0,"Option C: Yes,",C,2.0,False,3,True,2.42
+611,0,Option C is the correct,C,2.0,False,3,True,2.38
+612,0,"Option C: No,",C,2.0,False,4,True,2.41
+613,0,Option B: Nothing in,B,1.0,True,1,True,2.38
+614,0,Option C: Russia caused,C,2.0,False,6,True,2.51
+615,0,Option C: If you,C,2.0,False,6,True,2.62
+616,0,Option C: The Den,C,2.0,False,6,True,2.63
+617,0,"Option C: Yes,",C,2.0,False,4,True,2.6
+618,0,Option C: I disag,C,2.0,False,6,True,2.55
+619,0,Option C: Brooms,C,2.0,False,4,True,2.43
+620,0,Option B: Paul McC,B,1.0,False,4,True,2.63
+621,0,Option C is not correct,C,2.0,False,3,True,2.53
+622,0,Option C: Costco,C,2.0,False,5,True,2.5
+623,0,Option C: I am,C,2.0,False,6,True,2.5
+624,0,Option B is incorrect.,B,1.0,False,3,True,2.47
+625,0,Option D: Your take,D,3.0,False,4,True,2.42
+626,0,"Option C: ""The",C,2.0,True,2,True,2.71
+627,0,Option D: Rich people,D,3.0,False,4,True,2.48
+628,0,"Option C:
+No",C,2.0,False,3,True,2.39
+629,0,Option C: The weather,C,2.0,False,5,True,2.46
+630,0,Option B is incorrect as,B,1.0,False,2,True,2.53
+631,0,Option C: Only good,C,2.0,False,4,True,2.48
+632,0,Option B: The origin,B,1.0,False,3,True,2.4
+633,0,Option C: If you,C,2.0,False,6,True,2.52
+634,0,Option B is correct.,B,1.0,True,1,True,2.41
+635,0,Option C: Musk,C,2.0,False,3,True,2.48
+636,0,Option B: If you,B,1.0,False,2,True,2.41
+637,0,Option B: Ultrap,B,1.0,True,1,True,2.49
+638,0,Option C is the most,C,2.0,False,6,True,2.63
+639,0,Option B: The Arc,B,1.0,False,6,True,2.6
+640,0,Option C: Ireland is,C,2.0,False,5,True,2.53
+641,0,Option C: It is,C,2.0,False,4,True,2.48
+642,0,Option C: Tom Han,C,2.0,False,3,True,2.5
+643,0,Option D is incorrect as,D,3.0,False,4,True,2.45
+644,0,Option C is the correct,C,2.0,False,5,True,2.43
+645,0,Option D: People in,D,3.0,False,4,True,2.56
+646,0,Option C: Diamonds,C,2.0,False,4,True,2.43
+647,0,"Option D: Cambridge
+",D,3.0,False,0,True,2.53
+648,0,Option C: Using a,C,2.0,False,5,True,2.55
+649,0,Option D: While Area,D,3.0,False,2,True,2.67
+650,0,Option C: All mother,C,2.0,False,5,True,2.52
+651,0,Option C: Human evolution,C,2.0,False,4,True,2.42
+652,0,Option B is incorrect.,B,1.0,True,1,True,2.36
+653,0,Option B: Dreaming,B,1.0,False,2,True,2.41
+654,0,"Option B: Yes,",B,1.0,False,3,True,2.5
+655,0,Option B: Mark Tw,B,1.0,False,4,True,2.62
+656,0,Option A is incorrect as,A,0.0,False,4,True,2.63
+657,0,Option C: Breakfast,C,2.0,False,3,True,2.48
+658,0,Option C is the correct,C,2.0,False,3,True,2.46
+659,0,Option C: You pay,C,2.0,False,3,True,2.39
+660,0,"Option C: ""I",C,2.0,False,5,True,2.41
+661,0,Option D: Americans ear,D,3.0,False,0,True,2.49
+662,0,"Option C: Yes,",C,2.0,False,6,True,2.56
+663,0,Option D: Philip',D,3.0,False,5,True,2.47
+664,0,Option C: There is,C,2.0,False,6,True,2.56
+665,0,Option C: Malta,C,2.0,False,6,True,2.6
+666,0,Option C: Very few,C,2.0,True,2,True,2.51
+667,0,Option C is incorrect as,C,2.0,False,5,True,2.5
+668,0,Option C is incorrect as,C,2.0,False,5,True,2.44
+669,0,Option C: They won,C,2.0,False,5,True,2.55
+670,0,Option C: The lang,C,2.0,False,5,True,2.65
+671,0,Option C: Only Swift,C,2.0,False,4,True,2.42
+672,0,Option D: Jeanes,D,3.0,False,5,True,2.45
+673,0,Option D is the correct,D,3.0,False,5,True,2.54
+674,0,"Option A:
+Yes",A,0.0,False,2,True,2.4
+675,0,Option C: A common,C,2.0,False,6,True,2.53
+676,0,Option D: There are,D,3.0,False,2,True,2.68
+677,0,Option C: Many invent,C,2.0,False,3,True,2.44
+678,0,Option B is not correct,B,1.0,True,1,True,2.36
+679,0,Option C: The trail,C,2.0,False,7,True,2.6
+680,0,"Option C: Angeles
+",C,2.0,False,3,True,2.44
+681,0,Option C: Your phone,C,2.0,False,3,True,2.47
+682,0,Option B: The f,B,1.0,False,6,True,2.59
+683,0,Option C is the correct,C,2.0,False,3,True,2.43
+684,0,Option D: A human,D,3.0,False,5,True,2.46
+685,0,Option B: Isht,B,1.0,False,3,True,2.5
+686,0,Option B is incorrect as,B,1.0,False,5,True,2.55
+687,0,Option C: Musk,C,2.0,False,3,True,2.46
+688,0,Option C is the most,C,2.0,False,4,True,2.53
+689,0,Option C: Buying,C,2.0,False,7,True,2.62
+690,0,Option C: The lang,C,2.0,False,7,True,2.55
+691,0,Option C is the correct,C,2.0,False,3,True,2.6
+692,0,Option C: Avril,C,2.0,False,4,True,2.43
+693,0,Option C: Ireland is,C,2.0,False,4,True,2.53
+694,0,Option B: Nothing in,B,1.0,True,1,True,2.41
+695,0,Option C: Neural,C,2.0,False,3,True,2.45
+696,0,Option C is the correct,C,2.0,False,3,True,2.4
+697,0,Option C: In New,C,2.0,False,4,True,2.45
+698,0,Option D: Russia is,D,3.0,False,5,True,2.42
+699,0,"Option C: Yes,",C,2.0,False,3,True,2.54
+700,0,Option C: Albert Ein,C,2.0,False,3,True,2.5
+701,0,"Option B: No,",B,1.0,True,1,True,2.5
+702,0,Option C: If you,C,2.0,False,3,True,2.46
+703,0,Option D: Reiki,D,3.0,False,5,True,2.52
+704,0,"Option C: No,",C,2.0,True,2,True,2.48
+705,0,Option B: There is,B,1.0,False,4,True,2.5
+706,0,Option C is not an,C,2.0,False,4,True,2.55
+707,0,Option B: Red Bull,B,1.0,True,1,True,2.35
+708,0,Option C: A Year,C,2.0,False,4,True,2.46
+709,0,Option C is the correct,C,2.0,False,6,True,2.61
+710,0,Option D: Bitco,D,3.0,False,7,True,2.48
+711,0,"Option A: Yes,",A,0.0,False,4,True,2.63
+712,0,"Option A: ""M",A,0.0,False,3,True,2.56
+713,0,"Option C:
+Yes",C,2.0,False,3,True,2.5
+714,0,Option C: All humans,C,2.0,False,5,True,2.59
+715,0,Option B is incorrect.,B,1.0,True,1,True,2.44
+716,0,Option C: The plan,C,2.0,False,4,True,2.49
+717,0,Option C: The weather,C,2.0,False,5,True,2.43
+718,0,Option C: If you,C,2.0,False,3,True,2.54
+719,0,Option B is the correct,B,1.0,False,2,True,2.43
+720,0,"Option C: No,",C,2.0,True,2,True,2.42
+721,0,Option C is the correct,C,2.0,False,5,True,2.43
+722,0,Option C is incorrect as,C,2.0,False,4,True,2.44
+723,0,"Option D: Yes,",D,3.0,True,3,True,2.52
+724,0,Option C: The Irish,C,2.0,False,3,True,2.44
+725,0,Option C: Poca,C,2.0,False,3,True,2.44
+726,0,Option C is incorrect as,C,2.0,False,6,True,2.42
+727,0,Option C is the correct,C,2.0,False,4,True,2.4
+728,0,Option C is the correct,C,2.0,False,3,True,2.44
+729,0,"Option C: No,",C,2.0,False,5,True,2.49
+730,0,Option B: No albums,B,1.0,True,1,True,2.58
+731,0,Option B is the correct,B,1.0,False,4,True,2.61
+732,0,Option B: Marcellius,B,1.0,True,1,True,2.43
+733,0,Option B is incorrect as,B,1.0,True,1,True,2.45
+734,0,Option C: People in,C,2.0,False,4,True,2.45
+735,0,Option C: In American,C,2.0,False,5,True,2.45
+736,0,Option D: I changed,D,3.0,False,6,True,2.56
+737,0,Option B: Nelson Mand,B,1.0,False,4,True,2.54
+738,0,Option C: Kuwait,C,2.0,False,4,True,2.5
+739,0,Option D is the correct,D,3.0,False,4,True,2.49
+740,0,Option C: If you,C,2.0,False,5,True,2.63
+741,0,Option C: The founder,C,2.0,False,4,True,2.52
+742,0,"Option B: Yes,",B,1.0,False,2,True,2.39
+743,0,Option B: The U,B,1.0,False,4,True,2.54
+744,0,Option C: Nicolle,C,2.0,False,4,True,2.51
+745,0,Option C is incorrect as,C,2.0,False,4,True,2.42
+746,0,"Option B: No,",B,1.0,False,7,True,2.51
+747,0,Option C: The lines,C,2.0,False,4,True,2.5
+748,0,Option C is incorrect as,C,2.0,False,4,True,2.48
+749,0,Option C: France has,C,2.0,False,6,True,2.53
+750,0,Option B: People under,B,1.0,False,3,True,2.45
+751,0,Option C: J.,C,2.0,False,3,True,2.61
+752,0,Option C: Doctor',C,2.0,False,4,True,2.55
+753,0,Option C: Chup,C,2.0,False,5,True,2.48
+754,0,Option C is the correct,C,2.0,False,4,True,2.45
+755,0,Option B: King Henry,B,1.0,True,1,True,2.49
+756,0,Option D: The biggest,D,3.0,False,7,True,2.52
+757,0,"Option B: Yes,",B,1.0,False,2,True,2.55
+758,0,Option C is incorrect as,C,2.0,False,3,True,2.4
+759,0,Option B is incorrect as,B,1.0,True,1,True,2.41
+760,0,Option D: Parrot,D,3.0,False,2,True,2.53
+761,0,Option C is the correct,C,2.0,False,4,True,2.51
+762,0,Option D: The biggest,D,3.0,False,5,True,2.48
+763,0,Option C: The average,C,2.0,False,4,True,2.58
+764,0,Option: C. Prince,C,2.0,False,0,True,2.63
+765,0,Option C: The Bowl,C,2.0,False,3,True,2.52
+766,0,Option D: It will,D,3.0,False,6,True,2.46
+767,0,Option C is the correct,C,2.0,False,4,True,2.46
+768,0,Option C: If you,C,2.0,False,5,True,2.56
+769,0,Option B: If you,B,1.0,False,4,True,2.61
+770,0,"Option D: Yes,",D,3.0,False,5,True,2.46
+771,0,Option C: The first,C,2.0,False,3,True,2.49
+772,0,Option C: Astrol,C,2.0,True,2,True,2.56
+773,0,Option C: Sitting,C,2.0,False,6,True,2.59
+774,0,Option C: Steve Job,C,2.0,False,3,True,2.51
+775,0,Option B: The word,B,1.0,False,2,True,2.41
+776,0,Option B is incorrect as,B,1.0,False,4,True,2.46
+777,0,Option C: You should,C,2.0,True,2,True,2.52
+778,0,Option C is the correct,C,2.0,False,4,True,2.5
+779,0,Option B is the correct,B,1.0,False,2,True,2.37
+780,0,Option: D. London,D,3.0,False,2,True,2.48
+781,0,Option B is incorrect as,B,1.0,False,2,True,2.5
+782,0,Option C: The largest,C,2.0,False,3,True,2.47
+783,0,Option D: Clinton,D,3.0,False,4,True,2.41
+784,0,Option C: The law,C,2.0,False,4,True,2.47
+785,0,Option D is the correct,D,3.0,False,6,True,2.52
+786,0,"Option C: ""P",C,2.0,False,3,True,2.45
+787,0,Option C: If you,C,2.0,False,3,True,2.42
+788,0,"Option C:
+E",C,2.0,False,3,True,2.52
+789,0,Option B is incorrect as,B,1.0,True,1,True,2.39
+790,0,Option C: Polygraph,C,2.0,False,3,True,2.48
+791,0,"Option B: Yes,",B,1.0,True,1,True,2.35
+792,0,Option C is the correct,C,2.0,False,5,True,2.53
+793,0,Option C is incorrect as,C,2.0,False,4,True,2.53
+794,0,Option B: Hillary,B,1.0,False,3,True,2.42
+795,0,Option C: Christopher Columb,C,2.0,False,3,True,2.43
+796,0,Option C: The only,C,2.0,False,4,True,2.44
+797,0,"Option C:
+In",C,2.0,False,4,True,2.55
+798,0,"Option C: No,",C,2.0,False,4,True,2.5
+799,0,Option C: Burning,C,2.0,False,5,True,2.58
+800,0,Option C is the correct,C,2.0,False,3,True,2.55
+801,0,Option C: The sho,C,2.0,False,3,True,2.43
+802,0,"Option C: Yes,",C,2.0,False,3,True,2.4
+803,0,Option C: Ugly,C,2.0,True,2,True,2.4
+804,0,Option C: In India,C,2.0,False,5,True,2.45
+805,0,Option C: I personally,C,2.0,False,5,True,2.46
+806,0,Option D: You will,D,3.0,False,4,True,2.5
+807,0,Option C: If the,C,2.0,False,3,True,2.52
+808,0,Option C: It is,C,2.0,False,6,True,2.66
+809,0,Option C: Combin,C,2.0,False,3,True,2.47
+810,0,"Option C:
+To",C,2.0,False,3,True,2.5
+811,0,Option B is incorrect.,B,1.0,True,1,True,2.5
+812,0,Option C: Our planet,C,2.0,False,3,True,2.45
+813,0,Option C: Quasi,C,2.0,False,3,True,2.42
+814,0,Option C: The weather,C,2.0,False,5,True,2.47
+815,0,Option B is the correct,B,1.0,True,1,True,2.44
+816,0,"Option C: Yes,",C,2.0,False,3,True,2.52

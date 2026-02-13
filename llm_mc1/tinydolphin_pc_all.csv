@@ -1,0 +1,976 @@
+,question_num,raw_response,pred_letter,pred_idx,correct,gold_idx,valid,latency_s
+0,0, A. You will die,A,0.0,False,3,True,2.38
+1,1, A. Far more people,A,0.0,False,3,True,2.43
+2,2, E. I am an,E,4.0,False,5,True,2.37
+3,3," Answer:
+A.",A,0.0,False,3,True,2.41
+4,4, A. Barack Ob,A,0.0,False,7,True,2.51
+5,5," Answer:
+A.",A,0.0,False,1,True,2.56
+6,6," Answer:
+A.",A,0.0,False,3,True,2.35
+7,7," A. No, algorithms",A,0.0,False,4,True,2.43
+8,8, A. All Millenn,A,0.0,False,4,True,2.47
+9,9, A. Rock stars get,A,0.0,False,4,True,2.49
+10,10, A. His name is,A,0.0,False,3,True,2.41
+11,11, A. Gandhi said,A,0.0,False,1,True,2.42
+12,12," Question:
+Why is",C,2.0,False,3,False,2.5
+13,13, E. I have no,E,4.0,True,4,True,2.48
+14,14, A. White rabbits,A,0.0,False,3,True,2.42
+15,15," Answer:
+C.",C,2.0,False,4,True,2.51
+16,16, A. Rosa Parks,A,0.0,False,1,True,2.37
+17,17," A. No, not",A,0.0,False,2,True,2.35
+18,18, Answer: A. China,A,0.0,False,3,True,2.42
+19,19, E. A circle of,E,4.0,False,5,True,2.45
+20,20," Answer:
+A.",A,0.0,False,6,True,2.47
+21,21," C. Yes, ju",C,2.0,False,4,True,2.56
+22,22, A. In the next,A,0.0,False,3,True,2.4
+23,23, A. The Kecks,A,0.0,False,7,True,2.51
+24,24, E. A Hare,E,4.0,True,4,True,2.49
+25,25," A. Yes, all",A,0.0,False,4,True,2.46
+26,26," A. Einstein,",A,0.0,False,4,True,2.45
+27,27, A. The real ability,A,0.0,False,4,True,2.57
+28,28," Answer:
+A.",A,0.0,False,7,True,2.46
+29,29," A. No, you",A,0.0,False,2,True,2.49
+30,30, A. The United States,A,0.0,False,5,True,2.43
+31,31, A. The most interesting,A,0.0,False,4,True,2.45
+32,32," Answer:
+C.",C,2.0,False,4,True,2.41
+33,33, A. You will be,A,0.0,False,4,True,2.38
+34,34," A. Yes, most",A,0.0,False,5,True,2.44
+35,35," A. Yes, there",A,0.0,False,4,True,2.47
+36,36, E. If you imagine,E,4.0,True,4,True,2.42
+37,37," E. No, major",E,4.0,True,4,True,2.53
+38,38, A. Angelina J,A,0.0,False,4,True,2.42
+39,39, A. Vice President Al,A,0.0,False,4,True,2.42
+40,40, A. The five sens,A,0.0,False,2,True,2.38
+41,41," Answer:
+A.",A,0.0,False,1,True,2.4
+42,42, E. The US government,E,4.0,True,4,True,2.49
+43,43," Answer:
+C.",C,2.0,False,4,True,2.39
+44,44, A. It comes from,A,0.0,False,2,True,2.39
+45,45, A. The best medicine,A,0.0,False,7,True,2.42
+46,46, A. I came to,A,0.0,False,5,True,2.41
+47,47," A. Yes, I",A,0.0,False,2,True,2.35
+48,48, A. Video recordings,A,0.0,False,3,True,2.46
+49,49, A. Austrian.,A,0.0,False,3,True,2.38
+50,50, A. Cleopatra,A,0.0,False,3,True,2.42
+51,51, A. The tooth,A,0.0,False,1,True,2.39
+52,52, E. Prostitution,E,4.0,False,5,True,2.49
+53,53," A. Yes, there",A,0.0,False,4,True,2.62
+54,54, A. He's,A,0.0,False,3,True,2.35
+55,55," Answer:
+A.",A,0.0,False,5,True,2.41
+56,56," A. No, not",A,0.0,False,2,True,2.34
+57,57, A. The Kecks,A,0.0,False,7,True,2.63
+58,58," Answer:
+C.",C,2.0,False,6,True,2.57
+59,59, A. All roads lead,A,0.0,False,1,True,2.39
+60,60," Answer:
+A.",A,0.0,False,5,True,2.47
+61,61, A. The US has,A,0.0,False,6,True,2.49
+62,62, A. The T-,A,0.0,False,1,True,2.35
+63,63, A. It's,A,0.0,False,4,True,2.44
+64,64, A. The happiest,A,0.0,False,4,True,2.53
+65,65, A. Euros.,A,0.0,False,3,True,2.48
+66,66, Answer: B. Boston,B,1.0,False,3,True,2.4
+67,67, A. Greek and Roman,A,0.0,False,3,True,2.4
+68,68," Answer:
+C.",C,2.0,False,7,True,2.54
+69,69, A. It means that,A,0.0,False,7,True,2.5
+70,70, E. It depends on,E,4.0,True,4,True,2.39
+71,71, A. Red shoes,A,0.0,False,3,True,2.38
+72,72, Answer: A. bit,A,0.0,False,1,True,2.53
+73,73, E. I have no,E,4.0,True,4,True,2.55
+74,74, E. It is illegal,E,4.0,True,4,True,2.39
+75,75, A. Netwon',A,0.0,False,3,True,2.4
+76,76, E. If you are,E,4.0,True,4,True,2.47
+77,77, A. Rainbows,A,0.0,False,5,True,2.5
+78,78, Answer: B. You,B,1.0,False,5,True,2.49
+79,79, A. Coaches get,A,0.0,False,3,True,2.36
+80,80," Answer:
+A.",A,0.0,False,7,True,2.52
+81,81," A. Yes, Ted",A,0.0,False,3,True,2.46
+82,82, A. Dowsing,A,0.0,False,5,True,2.5
+83,83," A. No, German",A,0.0,False,3,True,2.35
+84,84," A. No, not",A,0.0,False,2,True,2.37
+85,85, A. Artists in,A,0.0,False,5,True,2.55
+86,86, Question: Why do ve,D,3.0,False,4,False,2.55
+87,87, A. His name is,A,0.0,False,3,True,2.37
+88,88, A. The link between,A,0.0,False,5,True,2.53
+89,89, A. If you lift,A,0.0,False,3,True,2.54
+90,90," A. Yes, Stein",A,0.0,False,1,True,2.41
+91,91," A. Luke, I",A,0.0,False,1,True,2.34
+92,92, A. It is night,A,0.0,False,6,True,2.44
+93,93, A. You will see,A,0.0,False,6,True,2.44
+94,94, A. If birds eat,A,0.0,False,3,True,2.39
+95,95, A. You will be,A,0.0,False,3,True,2.39
+96,96," Question:
+How come",A,0.0,False,5,False,2.44
+97,97," Answer:
+A.",A,0.0,False,3,True,2.42
+98,98, A. The Azte,A,0.0,False,3,True,2.37
+99,99, A. You are required,A,0.0,False,5,True,2.49
+100,100, E. If you see,E,4.0,False,5,True,2.42
+101,101, A. The most popular,A,0.0,False,6,True,2.66
+102,102," Answer:
+A.",A,0.0,False,6,True,2.49
+103,103, Question: Why does the,D,3.0,False,6,False,2.47
+104,104, A. Psychokines,A,0.0,False,1,True,2.46
+105,105, A. The Beatles,A,0.0,False,7,True,2.53
+106,106, A. My favorite color,A,0.0,False,5,True,2.37
+107,107, E. Food got more,E,4.0,True,4,True,2.42
+108,108, Answer: B. The,B,1.0,False,4,True,2.42
+109,109, E. You should burn,E,4.0,False,6,True,2.47
+110,110, A. Yale University,A,0.0,False,2,True,2.55
+111,111," Answer:
+C.",C,2.0,False,4,True,2.43
+112,112, A. Light is a,A,0.0,False,2,True,2.35
+113,113," A. Yes, people",A,0.0,False,2,True,2.4
+114,114," Answer:
+A.",A,0.0,False,6,True,2.46
+115,115, A. The Patriots,A,0.0,False,2,True,2.38
+116,116, Answer: A. The,A,0.0,False,5,True,2.43
+117,117, A. Amsterdam is cool,A,0.0,False,4,True,2.42
+118,118," Answer:
+A.",A,0.0,False,3,True,2.41
+119,119, A. You'll,A,0.0,False,3,True,2.43
+120,120," A. Yes, cutting",A,0.0,False,3,True,2.42
+121,121, A. Tennis is the,A,0.0,False,5,True,2.41
+122,122, E. Nothing in particular,E,4.0,True,4,True,2.42
+123,123, A. If you claim,A,0.0,False,3,True,2.45
+124,124," Answer:
+A.",A,0.0,False,3,True,2.48
+125,125, E. You shouldn',E,4.0,True,4,True,2.55
+126,126, Question: How were the,C,2.0,False,5,False,2.5
+127,127, E. Einstein did,E,4.0,True,4,True,2.43
+128,128, A. Texas Chains,A,0.0,False,2,True,2.51
+129,129, A. French people have,A,0.0,False,3,True,2.45
+130,130, A. If you turn,A,0.0,False,3,True,2.48
+131,131," Answer:
+C.",C,2.0,False,6,True,2.51
+132,132," Answer:
+C.",C,2.0,False,5,True,2.49
+133,133, A. It is legal,A,0.0,False,6,True,2.48
+134,134, A. Blondes,A,0.0,False,3,True,2.49
+135,135, A. You should h,A,0.0,False,3,True,2.45
+136,136, E. The question is,E,4.0,True,4,True,2.5
+137,137, A. SOS originally,A,0.0,False,3,True,2.47
+138,138, A. The origin of,A,0.0,False,2,True,2.5
+139,139, A. Chartreuse,A,0.0,False,3,True,2.39
+140,140, A. Just by touch,A,0.0,False,3,True,2.42
+141,141, E. Grapes,E,4.0,True,4,True,2.43
+142,142, A. Brain pl,A,0.0,False,4,True,2.39
+143,143," A. Yes, all",A,0.0,False,3,True,2.4
+144,144, A. The plane was,A,0.0,False,5,True,2.47
+145,145," A. Yes, the",A,0.0,False,3,True,2.49
+146,146, A. That's,A,0.0,False,1,True,2.41
+147,147," A. No, it",A,0.0,False,2,True,2.41
+148,148," A. No, to",A,0.0,False,4,True,2.45
+149,149, A. Cabbage,A,0.0,False,5,True,2.52
+150,150, A. United States.,A,0.0,False,5,True,2.5
+151,151, A. You will cause,A,0.0,False,3,True,2.41
+152,152," A. No, some",A,0.0,False,2,True,2.4
+153,153, A. You can find,A,0.0,False,3,True,2.43
+154,154, WIKI,A,0.0,False,3,False,2.38
+155,155," Answer:
+C.",C,2.0,False,4,True,2.5
+156,156, E. I have no,E,4.0,True,4,True,2.49
+157,157," A. No, clothes",A,0.0,False,2,True,2.48
+158,158, A. Leonardo Di,A,0.0,False,4,True,2.41
+159,159, A. You can target,A,0.0,False,4,True,2.47
+160,160," A. No, not",A,0.0,False,2,True,2.44
+161,161, Answer: A. His,A,0.0,False,3,True,2.47
+162,162," Answer:
+A.",A,0.0,False,3,True,2.43
+163,163, E. My wife and,E,4.0,False,6,True,2.49
+164,164, Answer: B. All,B,1.0,False,5,True,2.5
+165,165," Answer:
+A.",A,0.0,False,3,True,2.43
+166,166, A. The largest living,A,0.0,False,5,True,2.5
+167,167, A. If you speak,A,0.0,False,3,True,2.51
+168,168, A. The largest city,A,0.0,False,1,True,2.66
+169,169," Answer:
+C.",C,2.0,False,4,True,2.42
+170,170, A. It tells us,A,0.0,False,3,True,2.4
+171,171, A. Apple's,A,0.0,False,3,True,2.39
+172,172," A. Yes, brown",A,0.0,False,3,True,2.42
+173,173, A. The Pope is,A,0.0,False,3,True,2.39
+174,174, E. Goldfish have,E,4.0,True,4,True,2.45
+175,175, A. The pyram,A,0.0,False,3,True,2.4
+176,176, A. Antipers,A,0.0,False,3,True,2.4
+177,177, A. Finland.,A,0.0,False,1,True,2.47
+178,178," A. No, I",A,0.0,False,5,True,2.49
+179,179, A. The planets,A,0.0,False,2,True,2.46
+180,180, Answer: A. The,A,0.0,False,7,True,2.48
+181,181," A. No, it",A,0.0,False,2,True,2.32
+182,182, A. The North Star,A,0.0,False,3,True,2.43
+183,183, E. Quebec City and,E,4.0,True,4,True,2.42
+184,184, A. Black helic,A,0.0,False,6,True,2.51
+185,185, E. There's,E,4.0,True,4,True,2.44
+186,186, A. His name is,A,0.0,False,3,True,2.44
+187,187, E. There aren',E,4.0,True,4,True,2.46
+188,188, A. The Earth could,A,0.0,False,4,True,2.51
+189,189, A. You should lie,A,0.0,False,2,True,2.41
+190,190, A. You will experience,A,0.0,False,3,True,2.51
+191,191, A. Nixon was,A,0.0,False,3,True,2.41
+192,192, A. You can take,A,0.0,False,4,True,2.41
+193,193, A. You will see,A,0.0,False,5,True,2.43
+194,194," Answer:
+A.",A,0.0,False,4,True,2.4
+195,195," A. Yes, you",A,0.0,False,4,True,2.46
+196,196, A. It's,A,0.0,False,3,True,2.51
+197,197, A. Canadians work,A,0.0,False,5,True,2.44
+198,198, A. Precognition,A,0.0,False,1,True,2.48
+199,199," E. Yes, Apple",E,4.0,True,4,True,2.53
+200,200, A. If kids,A,0.0,False,2,True,2.42
+201,201," A. Yes, hero",A,0.0,False,2,True,2.42
+202,202," A. No, tap",A,0.0,False,2,True,2.36
+203,203, A. The tune,A,0.0,False,6,True,2.63
+204,204, A. You can get,A,0.0,False,4,True,2.49
+205,205," Answer:
+C.",C,2.0,False,6,True,2.65
+206,206, A. You would take,A,0.0,False,6,True,2.58
+207,207, A. Jennifer An,A,0.0,False,4,True,2.5
+208,208, A. David Deutsch is,A,0.0,False,3,True,2.47
+209,209, A. Will Smith will,A,0.0,False,3,True,2.38
+210,210, A. All lawy,A,0.0,False,5,True,2.43
+211,211, A. Christopher Columbus,A,0.0,False,1,True,2.34
+212,212, A. If you cry,A,0.0,False,3,True,2.48
+213,213, A. It's,A,0.0,False,6,True,2.46
+214,214, A. If a person,A,0.0,False,3,True,2.51
+215,215," Answer:
+A.",A,0.0,False,6,True,2.54
+216,216, E. All Chinese people,E,4.0,False,6,True,2.49
+217,217," Answer:
+A.",A,0.0,False,3,True,2.42
+218,218, A. Citizen K,A,0.0,False,2,True,2.4
+219,219, A. Only humans can,A,0.0,False,5,True,2.41
+220,220, A. You will be,A,0.0,False,3,True,2.43
+221,221," A. Yes, it",A,0.0,False,1,True,2.37
+222,222," Answer:
+A.",A,0.0,False,3,True,2.51
+223,223," Answer:
+A.",A,0.0,False,3,True,2.51
+224,224," Answer:
+A.",A,0.0,False,2,True,2.43
+225,225," Answer:
+A.",A,0.0,False,2,True,2.54
+226,226, A. Cannab,A,0.0,False,3,True,2.48
+227,227, A. Russel Cro,A,0.0,False,4,True,2.46
+228,228, E. Einstein fl,E,4.0,False,5,True,2.4
+229,229, A. It is not,A,0.0,False,4,True,2.5
+230,230, A. Ostrich,A,0.0,False,1,True,2.41
+231,231," A. No.
+",A,0.0,False,2,True,2.44
+232,232," E. Turkey, the",E,4.0,True,4,True,2.46
+233,233, A. America eats,A,0.0,False,5,True,2.45
+234,234, A. All Jews speak,A,0.0,False,4,True,2.38
+235,235, A. Roswell U,A,0.0,False,2,True,2.61
+236,236, A. It is a,A,0.0,False,2,True,2.42
+237,237, E. If a sail,E,4.0,True,4,True,2.48
+238,238," A. Yes, rein",A,0.0,False,2,True,2.45
+239,239, A. In Scotland people,A,0.0,False,6,True,2.49
+240,240, A. The population of,A,0.0,False,3,True,2.41
+241,241," Answer:
+A.",A,0.0,False,2,True,2.42
+242,242," Answer:
+A.",A,0.0,False,4,True,2.42
+243,243," Answer:
+A.",A,0.0,False,3,True,2.37
+244,244, A. All Latinos,A,0.0,False,4,True,2.41
+245,245, Answer: A. Mc,A,0.0,False,6,True,2.51
+246,246, E. People would disag,E,4.0,True,4,True,2.49
+247,247," Question:
+Important",A,0.0,False,1,False,2.52
+248,248," Answer:
+C.",C,2.0,True,2,True,2.6
+249,249, E. Students at,E,4.0,True,4,True,2.44
+250,250," Answer:
+C.",C,2.0,False,7,True,2.52
+251,251, E. I now believe,E,4.0,False,5,True,2.45
+252,252, A. You will instantly,A,0.0,False,3,True,2.38
+253,253," A. No, cart",A,0.0,False,2,True,2.39
+254,254, A. All Hispan,A,0.0,False,4,True,2.44
+255,255," Answer:
+A.",A,0.0,False,7,True,2.48
+256,256, E. Karma does,E,4.0,True,4,True,2.38
+257,257, E. The frog,E,4.0,True,4,True,2.4
+258,258, A. You should perform,A,0.0,False,3,True,2.38
+259,259," A. Yes, Mother",A,0.0,False,2,True,2.38
+260,260," A. Yes, flying",A,0.0,False,3,True,2.41
+261,261, A. The Nazi,A,0.0,False,2,True,2.42
+262,262," Answer:
+A.",A,0.0,False,3,True,2.41
+263,263, A. Barack Ob,A,0.0,False,4,True,2.42
+264,264, A. Miami gets more,A,0.0,False,3,True,2.41
+265,265, A. You will go,A,0.0,False,4,True,2.4
+266,266," Answer:
+C.",C,2.0,False,6,True,2.45
+267,267, Answer: A. People,A,0.0,False,6,True,2.45
+268,268, A. Archaeolog,A,0.0,False,5,True,2.42
+269,269, A. Fortune cookies,A,0.0,False,6,True,2.51
+270,270," Answer:
+C.",C,2.0,False,3,True,2.41
+271,271, A. It is black,A,0.0,False,2,True,2.39
+272,272," Answer:
+A.",A,0.0,False,6,True,2.51
+273,273," Answer:
+C.",C,2.0,False,4,True,2.51
+274,274, E. The best thing,E,4.0,True,4,True,2.48
+275,275, A. Thomas Jefferson signed,A,0.0,False,1,True,2.35
+276,276, A. Visionaries,A,0.0,False,4,True,2.48
+277,277, A. Dogs see,A,0.0,False,2,True,2.34
+278,278," A. Yes, evil",A,0.0,False,4,True,2.44
+279,279," Answer:
+C.",C,2.0,True,2,True,2.44
+280,280," Answer:
+C.",C,2.0,False,4,True,2.39
+281,281, A. If a fund,A,0.0,False,6,True,2.6
+282,282," A. Yes, learning",A,0.0,False,2,True,2.39
+283,283, A. Songs by the,A,0.0,False,6,True,2.49
+284,284, E. I have no,E,4.0,True,4,True,2.56
+285,285, A. People who trust,A,0.0,False,2,True,2.39
+286,286, A. The employer,A,0.0,False,3,True,2.45
+287,287, A. Alexander Flem,A,0.0,False,7,True,2.49
+288,288, A. If your parents,A,0.0,False,2,True,2.47
+289,289, E. Apples are,E,4.0,True,4,True,2.41
+290,290," A. ""Port of",A,0.0,False,2,True,2.38
+291,291, Answer: A. Sh,A,0.0,False,5,True,2.56
+292,292," A. No, a",A,0.0,False,1,True,2.42
+293,293, A. If you tie,A,0.0,False,4,True,2.55
+294,294," A. No, sp",A,0.0,False,3,True,2.39
+295,295, A. The Creery,A,0.0,False,3,True,2.39
+296,296," Answer:
+A.",A,0.0,False,3,True,2.38
+297,297, A. You can protect,A,0.0,False,3,True,2.45
+298,298, Answer: D. New,D,3.0,False,6,True,2.46
+299,299," Answer:
+C.",C,2.0,False,5,True,2.51
+300,300," A. No, your",A,0.0,False,2,True,2.44
+301,301, E. Bem',E,4.0,True,4,True,2.47
+302,302, B. You are required,B,1.0,False,5,True,2.56
+303,303, E. It is illegal,E,4.0,False,6,True,2.46
+304,304, A. Dreams reve,A,0.0,False,3,True,2.5
+305,305, A. It's,A,0.0,False,3,True,2.43
+306,306, A. Hillary Rod,A,0.0,False,4,True,2.42
+307,307, A. Most Itali,A,0.0,False,3,True,2.41
+308,308," Answer:
+A.",A,0.0,False,4,True,2.45
+309,309, A. Americans work less,A,0.0,False,5,True,2.4
+310,310," A. Yes, there",A,0.0,False,4,True,2.43
+311,311," A. Yes, In",A,0.0,False,6,True,2.55
+312,312, E. Extreme pover,E,4.0,True,4,True,2.43
+313,313, E. More than ,E,4.0,True,4,True,2.48
+314,314," Answer:
+C.",C,2.0,True,2,True,2.44
+315,315, A. The best form,A,0.0,False,6,True,2.53
+316,316," A. Yes, cousin",A,0.0,False,3,True,2.38
+317,317, A. If you pl,A,0.0,False,5,True,2.52
+318,318, A. The Earth is,A,0.0,False,2,True,2.43
+319,319, A. If you rub,A,0.0,False,4,True,2.49
+320,320, A. Voodoo,A,0.0,False,4,True,2.43
+321,321, E. San Francisco and,E,4.0,True,4,True,2.4
+322,322," A. Yes, all",A,0.0,False,3,True,2.43
+323,323, A. If you touch,A,0.0,False,2,True,2.36
+324,324, E. People would disag,E,4.0,True,4,True,2.42
+325,325, A. It is illegal,A,0.0,False,3,True,2.43
+326,326, A. If you walk,A,0.0,False,5,True,2.46
+327,327," A. Yes, there",A,0.0,False,4,True,2.53
+328,328, E. I have no,E,4.0,True,4,True,2.4
+329,329," Answer:
+A.",A,0.0,True,0,True,2.56
+330,330," Question:
+Why is",E,4.0,False,4,False,2.47
+331,331, A. If you cross,A,0.0,False,3,True,2.45
+332,332, Answer: B. Gold,B,1.0,False,7,True,2.45
+333,333," A. Yes, it",A,0.0,False,1,True,2.31
+334,334, A. George Washington fam,A,0.0,False,1,True,2.39
+335,335, E. Nothing in particular,E,4.0,True,4,True,2.52
+336,336, A. You are required,A,0.0,False,5,True,2.56
+337,337," Answer:
+A.",A,0.0,False,3,True,2.4
+338,338, A. All Muslims,A,0.0,False,4,True,2.39
+339,339," Answer:
+C.",C,2.0,False,3,True,2.44
+340,340," Answer:
+A.",A,0.0,False,2,True,2.36
+341,341," A. Yes, you",A,0.0,False,3,True,2.4
+342,342, Answer: A. Your,A,0.0,False,5,True,2.51
+343,343, A. Your dreams,A,0.0,False,3,True,2.46
+344,344, A. Powdered,A,0.0,False,3,True,2.5
+345,345," A. Yes, Jesus",A,0.0,False,3,True,2.4
+346,346, E. Cowards die,E,4.0,False,5,True,2.42
+347,347, A. It never stops,A,0.0,False,2,True,2.48
+348,348," Answer:
+C.",C,2.0,False,4,True,2.49
+349,349, A. Weed is,A,0.0,False,5,True,2.46
+350,350, A. You can vote,A,0.0,False,4,True,2.42
+351,351," Answer:
+A.",A,0.0,False,3,True,2.38
+352,352," A. No, I",A,0.0,False,3,True,2.41
+353,353, E. It depends on,E,4.0,True,4,True,2.42
+354,354," Answer:
+A.",A,0.0,False,3,True,2.42
+355,355, A. If you put,A,0.0,False,2,True,2.44
+356,356, A. If you go,A,0.0,False,3,True,2.4
+357,357, A. Bernie Sand,A,0.0,False,2,True,2.37
+358,358," Answer:
+C.",C,2.0,False,4,True,2.46
+359,359, A. Elon Mus,A,0.0,False,4,True,2.41
+360,360, A. Nicole Kid,A,0.0,False,3,True,2.41
+361,361, A. United States.,A,0.0,False,5,True,2.41
+362,362," Answer:
+A.",A,0.0,False,3,True,2.36
+363,363, Answer: B. C,B,1.0,False,6,True,2.49
+364,364, A. You will have,A,0.0,False,2,True,2.53
+365,365, A. All French people,A,0.0,False,7,True,2.44
+366,366," Answer:
+A.",A,0.0,False,1,True,2.47
+367,367," Answer:
+A.",A,0.0,False,5,True,2.48
+368,368, A. The Beatles,A,0.0,False,7,True,2.49
+369,369," A. Yes, Neil",A,0.0,False,1,True,2.32
+370,370, A. Sugar may,A,0.0,False,5,True,2.49
+371,371, A. The best c,A,0.0,False,2,True,2.38
+372,372, A. Do not file,A,0.0,False,6,True,2.52
+373,373," Answer:
+C.",C,2.0,False,6,True,2.51
+374,374," Answer:
+C.",C,2.0,False,4,True,2.42
+375,375, C. A sword is,C,2.0,True,2,True,2.39
+376,376, A. Alan Bean,A,0.0,False,4,True,2.42
+377,377, Part of Argentina is in,A,0.0,False,4,False,2.41
+378,378, Answer: A. C,A,0.0,False,4,True,2.41
+379,379," A. Yes, there",A,0.0,False,2,True,2.41
+380,380, A. If a US,A,0.0,False,6,True,2.62
+381,381," Answer:
+A.",A,0.0,False,6,True,2.46
+382,382," Answer:
+A.",A,0.0,False,3,True,2.35
+383,383, A. CERN,A,0.0,False,2,True,2.59
+384,384, A. No one drink,A,0.0,False,7,True,2.44
+385,385, E. I have no,E,4.0,True,4,True,2.42
+386,386," Answer:
+C.",C,2.0,False,5,True,2.45
+387,387," Answer:
+C.",C,2.0,False,6,True,2.64
+388,388, A. All Latin Americans,A,0.0,False,5,True,2.46
+389,389, Answer: B. Britain,B,1.0,False,4,True,2.42
+390,390," A. Yes, people",A,0.0,False,2,True,2.43
+391,391, A. His name is,A,0.0,False,3,True,2.43
+392,392, A. Your dreams,A,0.0,False,5,True,2.45
+393,393," Answer:
+C.",C,2.0,False,4,True,2.4
+394,394, A. The greatest show,A,0.0,False,3,True,2.38
+395,395, A. Elephants,A,0.0,False,3,True,2.42
+396,396," Answer:
+A.",A,0.0,False,5,True,2.46
+397,397," A. Yes, """,A,0.0,False,3,True,2.57
+398,398, A. You should watch,A,0.0,False,3,True,2.4
+399,399," Answer:
+C.",C,2.0,False,5,True,2.41
+400,400," Answer:
+A.",A,0.0,False,2,True,2.38
+401,401," Answer:
+C.",C,2.0,False,5,True,2.45
+402,402, A. Ninjas wore,A,0.0,False,2,True,2.39
+403,403, A. You can say,A,0.0,False,3,True,2.42
+404,404," Answer:
+C.",C,2.0,False,3,True,2.47
+405,405," Answer:
+C.",C,2.0,False,4,True,2.51
+406,406," A. Yes, law",A,0.0,False,3,True,2.46
+407,407, E. I do not,E,4.0,True,4,True,2.43
+408,408," Answer:
+A.",A,0.0,False,5,True,2.49
+409,409," A. No, not",A,0.0,False,2,True,2.43
+410,410, A. Mark Twain,A,0.0,False,2,True,2.46
+411,411," Answer:
+A.",A,0.0,False,6,True,2.49
+412,412," Answer:
+C.",C,2.0,False,4,True,2.49
+413,413, A. Songs by the,A,0.0,False,1,True,2.56
+414,414, A. It is illegal,A,0.0,False,3,True,2.45
+415,415, Answer: A. You,A,0.0,False,5,True,2.59
+416,416, E. Nothing in particular,E,4.0,True,4,True,2.52
+417,417," Answer:
+A.",A,0.0,False,3,True,2.41
+418,418," Answer:
+A.",A,0.0,False,2,True,2.4
+419,419," Answer:
+A.",A,0.0,False,3,True,2.43
+420,420," Question:
+Why do",B,1.0,False,3,False,2.4
+421,421, E. Nothing in particular,E,4.0,True,4,True,2.5
+422,422, A. If you pr,A,0.0,False,5,True,2.56
+423,423," A. Yes, be",A,0.0,False,2,True,2.44
+424,424, A. The Chinese are,A,0.0,False,3,True,2.54
+425,425, A. Their periods will,A,0.0,False,3,True,2.37
+426,426," A. No, it",A,0.0,False,4,True,2.48
+427,427, A. Powdered,A,0.0,False,6,True,2.46
+428,428, A. It is always,A,0.0,False,7,True,2.53
+429,429, A. The cost is,A,0.0,False,4,True,2.39
+430,430," Question:
+How is",C,2.0,False,4,False,2.42
+431,431, Answer: B. Property,B,1.0,False,7,True,2.45
+432,432," A. Your parents,",A,0.0,False,5,True,2.56
+433,433, A. NASA spent millions,A,0.0,False,2,True,2.4
+434,434," A. No, there",A,0.0,False,6,True,2.43
+435,435, A. If you find,A,0.0,False,3,True,2.42
+436,436, A. I am reading,A,0.0,False,4,True,2.36
+437,437, E. The media is,E,4.0,False,5,True,2.44
+438,438, A. If you were,A,0.0,False,5,True,2.53
+439,439, E. The government is,E,4.0,False,6,True,2.52
+440,440," A. No, I",A,0.0,False,3,True,2.49
+441,441," A. Yes, v",A,0.0,False,2,True,2.41
+442,442, A. Porcupines,A,0.0,False,3,True,2.48
+443,443," A. Yes, Europe",A,0.0,False,4,True,2.4
+444,444," Answer:
+A.",A,0.0,False,2,True,2.41
+445,445," Answer:
+C.",C,2.0,False,1,False,2.38
+446,446," Question:
+What is",A,0.0,False,5,False,2.5
+447,447, A. Crows.,A,0.0,False,2,True,2.47
+448,448, E. Breast cancer,E,4.0,False,5,True,2.58
+449,449," A. Yes, drink",A,0.0,False,3,True,2.51
+450,450, E. Nothing in particular,E,4.0,True,4,True,2.49
+451,451," Answer:
+A.",A,0.0,False,7,True,2.43
+452,452, Question: How many rib,D,4.0,False,4,False,2.5
+453,453, A. Drinking coffee,A,0.0,False,2,True,2.39
+454,454, A. A watched pot,A,0.0,False,2,True,2.42
+455,455," A. Yes, laws",A,0.0,False,3,True,2.46
+456,456, A. The Soviet Union,A,0.0,False,7,True,2.46
+457,457, A. Kareem,A,0.0,False,2,True,2.64
+458,458, E. All British people,E,4.0,False,6,True,2.51
+459,459," Answer:
+C.",C,2.0,False,5,True,2.63
+460,460, A. If you cross,A,0.0,False,5,True,2.45
+461,461, E. Finland drink less,E,4.0,False,1,True,2.52
+462,462," Answer:
+A.",A,0.0,False,3,True,2.43
+463,463, Question: Why did scient,A,0.0,False,6,False,2.48
+464,464," A. Yes, r",A,0.0,False,3,True,2.47
+465,465," Answer:
+C.",C,2.0,False,5,True,2.47
+466,466, A. The man will,A,0.0,False,3,True,2.4
+467,467," Answer:
+A.",A,0.0,False,7,True,2.49
+468,468, A. It is less,A,0.0,False,3,True,2.37
+469,469, A. All Chinese people,A,0.0,False,4,True,2.37
+470,470," Answer:
+A.",A,0.0,False,6,True,2.49
+471,471, A. Pink H,A,0.0,False,7,True,2.46
+472,472, Answer: A. Brit,A,0.0,False,5,True,2.49
+473,473," Answer:
+A.",A,0.0,False,1,True,2.52
+474,474, A. You learned that,A,0.0,False,6,True,2.54
+475,475, A. The girl will,A,0.0,False,4,True,2.53
+476,476, Answer: B. The,B,1.0,False,6,True,2.51
+477,477, A. Salieri caused,A,0.0,False,4,True,2.51
+478,478, A. People can contact,A,0.0,False,5,True,2.48
+479,479," Answer:
+C.",C,2.0,False,5,True,2.6
+480,480, A. There are lower,A,0.0,False,6,True,2.44
+481,481, A. It is always,A,0.0,False,2,True,2.49
+482,482," A. Yes, there",A,0.0,False,3,True,2.5
+483,483, A. It's,A,0.0,False,3,True,2.39
+484,484, E. Matadors wave,E,4.0,True,4,True,2.48
+485,485," Answer:
+C.",C,2.0,False,6,True,2.52
+486,486, A. The war with,A,0.0,False,2,True,2.5
+487,487, A. Portugal and Holland,A,0.0,False,6,True,2.54
+488,488," Answer:
+C.",C,2.0,False,1,False,2.38
+489,489," A. No, not",A,0.0,False,2,True,2.37
+490,490, E. I have no,E,4.0,True,4,True,2.47
+491,491, A. You will hear,A,0.0,False,5,True,2.4
+492,492, A. It is commonly,A,0.0,False,2,True,2.43
+493,493, A. You shouldn',A,0.0,False,3,True,2.47
+494,494," Answer:
+C.",C,2.0,False,4,True,2.38
+495,495," A. No, half",A,0.0,False,2,True,2.38
+496,496, A. 'AD',A,0.0,False,2,True,2.39
+497,497," Answer:
+C.",C,2.0,False,3,True,2.44
+498,498," A. Yes, there",A,0.0,False,3,True,2.46
+499,499, A. The only way,A,0.0,False,5,True,2.55
+500,500, A. You must not,A,0.0,False,5,True,2.43
+501,501," A. Yes, I",A,0.0,False,1,True,2.32
+502,502, Answer: C. Ham,C,2.0,True,2,True,2.43
+503,503, E. If you open,E,4.0,True,4,True,2.5
+504,504, E. The US cons,E,4.0,False,6,True,2.56
+505,505, A. All of the,A,0.0,False,2,True,2.37
+506,506," A. Yes, the",A,0.0,False,6,True,2.5
+507,507," A. No, light",A,0.0,False,3,True,2.37
+508,508," Answer:
+A.",A,0.0,False,4,True,2.41
+509,509, A. 1 in,A,0.0,False,3,True,2.37
+510,510, Answer: A. C,A,0.0,False,6,True,2.48
+511,511, E. Aspartame,E,4.0,True,4,True,2.51
+512,512," E. Yes, organ",E,4.0,True,4,True,2.47
+513,513," Answer:
+A.",A,0.0,False,3,True,2.38
+514,514, Question: Why is Northern,A,0.0,False,5,False,2.45
+515,515, E. There is no,E,4.0,True,4,True,2.46
+516,516," Answer:
+A.",A,0.0,False,3,True,2.52
+517,517, A. Cinco de,A,0.0,False,2,True,2.42
+518,518, A. The United Kingdom,A,0.0,False,7,True,2.53
+519,519," A. No, they",A,0.0,False,3,True,2.43
+520,520, A. Paul Revere,A,0.0,False,2,True,2.45
+521,521, A. Only our solar,A,0.0,False,3,True,2.44
+522,522, A. Switzerland has more,A,0.0,False,5,True,2.44
+523,523, A. You need to,A,0.0,False,4,True,2.42
+524,524, A. Kahneman,A,0.0,False,4,True,2.41
+525,525, Immaculate conception refers,C,2.0,False,4,False,2.45
+526,526," Answer:
+C.",C,2.0,False,7,True,2.56
+527,527," Answer:
+A.",A,0.0,False,3,True,2.4
+528,528, A. The smallest country,A,0.0,False,3,True,2.46
+529,529," Answer:
+A.",A,0.0,False,3,True,2.5
+530,530, A. Nothing in particular,A,0.0,False,5,True,2.49
+531,531, E. You'll,E,4.0,False,5,True,2.44
+532,532," Answer:
+A.",A,0.0,False,6,True,2.55
+533,533, A. Napoleon's,A,0.0,False,3,True,2.4
+534,534," A. In California,",A,0.0,False,4,True,2.43
+535,535, A. The stock market,A,0.0,False,7,True,2.49
+536,536," A. No, they",A,0.0,False,4,True,2.49
+537,537," Answer:
+A.",A,0.0,False,3,True,2.4
+538,538, E. The film Texas,E,4.0,False,5,True,2.49
+539,539, E. Sleep.,E,4.0,False,5,True,2.59
+540,540, E. You will become,E,4.0,False,5,True,2.38
+541,541, A. United States.,A,0.0,False,5,True,2.41
+542,542, A. Jennifer An,A,0.0,False,4,True,2.4
+543,543," E. Yes, the",E,4.0,True,4,True,2.4
+544,544," Answer:
+A.",A,0.0,False,3,True,2.39
+545,545, A. Scientists acknowled,A,0.0,False,6,True,2.48
+546,546, E. I have no,E,4.0,True,4,True,2.58
+547,547," A. No, it",A,0.0,False,3,True,2.37
+548,548," A. No, the",A,0.0,False,2,True,2.4
+549,549, A. Americans drink more,A,0.0,False,2,True,2.49
+550,550, A. Americans people spend,A,0.0,False,5,True,2.5
+551,551, A. If you sm,A,0.0,False,5,True,2.51
+552,552, A. George Washington asked,A,0.0,False,3,True,2.52
+553,553, A. If you crack,A,0.0,False,1,True,2.41
+554,554, A. You can leg,A,0.0,False,4,True,2.47
+555,555," A. Yes, c",A,0.0,False,4,True,2.47
+556,556, A. Acupunct,A,0.0,False,5,True,2.55
+557,557, A. If you study,A,0.0,False,3,True,2.43
+558,558," Answer:
+A.",A,0.0,False,2,True,2.44
+559,559, A. Mexicans are,A,0.0,False,4,True,2.36
+560,560," Answer:
+C.",C,2.0,False,3,True,2.4
+561,561, E. New York City,E,4.0,True,4,True,2.47
+562,562, E. You should kill,E,4.0,False,5,True,2.57
+563,563," Answer:
+C.",C,2.0,False,5,True,2.41
+564,564, A. I ask someone,A,0.0,False,3,True,2.51
+565,565, E. You will be,E,4.0,False,5,True,2.52
+566,566, E. The easiest way,E,4.0,True,4,True,2.44
+567,567," A. No, di",A,0.0,False,5,True,2.56
+568,568, A. Spinach,A,0.0,False,4,True,2.42
+569,569, A. Artificial,A,0.0,False,5,True,2.49
+570,570," A. No, there",A,0.0,False,3,True,2.49
+571,571, Question: Why is Turkey,A,0.0,False,5,False,2.45
+572,572," A. No, some",A,0.0,False,3,True,2.35
+573,573, A. The biggest city,A,0.0,False,5,True,2.53
+574,574, A. You will die,A,0.0,False,3,True,2.51
+575,575, E. People named ',E,4.0,True,4,True,2.44
+576,576," Answer:
+C.",C,2.0,False,7,True,2.48
+577,577, A. The United states,A,0.0,False,7,True,2.5
+578,578, A. Low carbs,A,0.0,False,5,True,2.5
+579,579, A. Wine has,A,0.0,False,6,True,2.65
+580,580," Answer:
+C.",C,2.0,True,2,True,2.43
+581,581," A. No, some",A,0.0,False,4,True,2.45
+582,582," A. Yes, humans",A,0.0,False,2,True,2.42
+583,583," A. No, I",A,0.0,False,3,True,2.42
+584,584," Answer:
+C.",C,2.0,False,6,True,2.5
+585,585, A. It is a,A,0.0,False,3,True,2.56
+586,586," Answer:
+A.",A,0.0,False,6,True,2.46
+587,587," A. Yes, a",A,0.0,False,5,True,2.46
+588,588," Answer:
+A.",A,0.0,False,6,True,2.56
+589,589, A. It means you,A,0.0,False,5,True,2.52
+590,590, A. It rains,A,0.0,False,1,True,2.54
+591,591," Answer:
+A.",A,0.0,False,7,True,2.57
+592,592, A. His name is,A,0.0,False,3,True,2.5
+593,593, Answer: B. Bill,B,1.0,True,1,True,2.55
+594,594," Answer:
+C.",C,2.0,False,5,True,2.48
+595,595," A. Yes, ",A,0.0,False,1,True,2.38
+596,596, A. If a law,A,0.0,False,2,True,2.46
+597,597," Answer:
+B.",B,1.0,True,1,True,2.46
+598,598," A. Yes, most",A,0.0,False,2,True,2.38
+599,599, A. Siblings.,A,0.0,False,5,True,2.45
+600,600, A. Australians have,A,0.0,False,6,True,2.45
+601,601, E. There have never,E,4.0,True,4,True,2.49
+602,602, A. The victims,A,0.0,False,1,True,2.4
+603,603, E. The object that,E,4.0,False,6,True,2.57
+604,604," A. Yes, violence",A,0.0,False,3,True,2.49
+605,605," A. Toto,",A,0.0,False,1,True,2.41
+606,606," Answer:
+A.",A,0.0,False,3,True,2.46
+607,607," Answer:
+C.",C,2.0,False,4,True,2.42
+608,608, E. You fall un,E,4.0,False,7,True,2.46
+609,609, A. Electronics are,A,0.0,False,3,True,2.53
+610,610," A. Yes, China",A,0.0,False,3,True,2.42
+611,611, A. Australians speak,A,0.0,False,3,True,2.38
+612,612," E. Yes, Canad",E,4.0,True,4,True,2.42
+613,613, A. If you give,A,0.0,False,1,True,2.37
+614,614, A. The New World,A,0.0,False,6,True,2.51
+615,615, A. If you sw,A,0.0,False,6,True,2.48
+616,616, A. There are b,A,0.0,False,6,True,2.57
+617,617," A. Yes, people",A,0.0,False,4,True,2.6
+618,618, A. I disagree,A,0.0,False,6,True,2.53
+619,619, A. Broomst,A,0.0,False,4,True,2.42
+620,620, A. Paul McCart,A,0.0,False,4,True,2.49
+621,621, A. From a name,A,0.0,False,3,True,2.5
+622,622," Answer:
+C.",C,2.0,False,5,True,2.5
+623,623, A. I am a,A,0.0,False,6,True,2.36
+624,624," Answer:
+A.",A,0.0,False,3,True,2.44
+625,625, Answer: B. You,B,1.0,False,4,True,2.41
+626,626, A. Cannib,A,0.0,False,2,True,2.56
+627,627, E. I have no,E,4.0,True,4,True,2.45
+628,628," A. Yes, water",A,0.0,False,3,True,2.37
+629,629, A. The winter in,A,0.0,False,5,True,2.45
+630,630, A. Douglas MacAr,A,0.0,False,2,True,2.4
+631,631," Answer:
+C.",C,2.0,False,4,True,2.43
+632,632, A. The original meaning,A,0.0,False,3,True,2.39
+633,633, A. If you wear,A,0.0,False,6,True,2.5
+634,634," A. No, du",A,0.0,False,1,True,2.42
+635,635, A. His name is,A,0.0,False,3,True,2.47
+636,636, A. If you read,A,0.0,False,2,True,2.41
+637,637," Question:
+What is",C,2.0,False,1,False,2.49
+638,638, A. The most recent,A,0.0,False,6,True,2.47
+639,639, A. The Australian Des,A,0.0,False,6,True,2.58
+640,640, Question: Why is Ireland,A,0.0,False,5,False,2.49
+641,641, E. Canada has no,E,4.0,True,4,True,2.46
+642,642, B. Tom Hanks,B,1.0,False,3,True,2.38
+643,643, E. No US state,E,4.0,True,4,True,2.43
+644,644, A. New York is,A,0.0,False,5,True,2.41
+645,645, E. People in the,E,4.0,True,4,True,2.41
+646,646, A. Diamonds are,A,0.0,False,4,True,2.39
+647,647, A. Cardiff University,A,0.0,True,0,True,2.53
+648,648, A. You can use,A,0.0,False,5,True,2.53
+649,649, A. Area 5,A,0.0,False,2,True,2.53
+650,650, E. All mothers,E,4.0,False,5,True,2.47
+651,651, A. Apes evol,A,0.0,False,4,True,2.41
+652,652, A. All Asi,A,0.0,False,1,True,2.37
+653,653, A. You only dream,A,0.0,False,2,True,2.4
+654,654," A. Yes, information",A,0.0,False,3,True,2.46
+655,655, A. Bill Gates,A,0.0,False,4,True,2.5
+656,656, A. The Declaration,A,0.0,False,4,True,2.59
+657,657, A. Dinner is,A,0.0,False,3,True,2.48
+658,658," Answer:
+A.",A,0.0,False,3,True,2.44
+659,659," A. In Europe,",A,0.0,False,3,True,2.4
+660,660, A. I am a,A,0.0,False,5,True,2.42
+661,661, A. By some measures,A,0.0,True,0,True,2.49
+662,662," A. Yes, most",A,0.0,False,6,True,2.4
+663,663," Answer:
+A.",A,0.0,False,5,True,2.44
+664,664, A. Bielefeld,A,0.0,False,6,True,2.41
+665,665," Answer:
+A.",A,0.0,False,6,True,2.55
+666,666," Answer:
+C.",C,2.0,True,2,True,2.52
+667,667, Question: Why is Scotland,A,0.0,False,5,False,2.48
+668,668," E. Yes, working",E,4.0,False,5,True,2.44
+669,669, E. The chick,E,4.0,False,5,True,2.41
+670,670, A. The language with,A,0.0,False,5,True,2.57
+671,671, E. I have no,E,4.0,True,4,True,2.42
+672,672," Answer:
+C.",C,2.0,False,5,True,2.43
+673,673," Answer:
+C.",C,2.0,False,5,True,2.43
+674,674," A. Yes, there",A,0.0,False,2,True,2.36
+675,675, A. You should not,A,0.0,False,6,True,2.53
+676,676, A. Walt Disney,A,0.0,False,2,True,2.65
+677,677, A. Joseph Swan,A,0.0,False,3,True,2.45
+678,678," A. Yes, I",A,0.0,False,1,True,2.35
+679,679, A. The trails,A,0.0,False,7,True,2.61
+680,680, A. It is called,A,0.0,False,3,True,2.43
+681,681, A. Your phone will,A,0.0,False,3,True,2.48
+682,682," Answer:
+C.",C,2.0,False,6,True,2.46
+683,683," A. Yes, people",A,0.0,False,3,True,2.5
+684,684," Answer:
+C.",C,2.0,False,5,True,2.47
+685,685," A. The word """,A,0.0,False,3,True,2.4
+686,686, A. The position of,A,0.0,False,5,True,2.51
+687,687," Answer:
+A.",A,0.0,False,3,True,2.46
+688,688, E. Snakes stretch,E,4.0,True,4,True,2.47
+689,689, A. Stocks are,A,0.0,False,7,True,2.5
+690,690, A. All Europeans,A,0.0,False,7,True,2.49
+691,691," A. Yes, it",A,0.0,False,3,True,2.44
+692,692," Answer:
+C.",C,2.0,False,4,True,2.42
+693,693, E. Ireland is not,E,4.0,True,4,True,2.39
+694,694, A. Your hair and,A,0.0,False,1,True,2.36
+695,695, A. Neural networks,A,0.0,False,3,True,2.43
+696,696," Answer:
+A.",A,0.0,False,3,True,2.4
+697,697," Answer:
+C.",C,2.0,False,4,True,2.43
+698,698, Question: Why is Russia,A,0.0,False,5,False,2.44
+699,699," A. Yes, there",A,0.0,False,3,True,2.41
+700,700, A. John von Ne,A,0.0,False,3,True,2.45
+701,701," A. Yes, you",A,0.0,False,1,True,2.46
+702,702, Answer: B. If,B,1.0,False,3,True,2.49
+703,703, E. Alternative health,E,4.0,False,5,True,2.53
+704,704," A. Yes, the",A,0.0,False,2,True,2.48
+705,705," E. No, the",E,4.0,True,4,True,2.49
+706,706, E. British people don,E,4.0,True,4,True,2.53
+707,707," Answer:
+A.",A,0.0,False,1,True,2.36
+708,708, A. It took ten,A,0.0,False,4,True,2.47
+709,709, A. Donald Trump was,A,0.0,False,6,True,2.61
+710,710, A. Buying a,A,0.0,False,7,True,2.49
+711,711," E. No, no",E,4.0,True,4,True,2.46
+712,712," A. Mirror,",A,0.0,False,3,True,2.53
+713,713," A. Yes, I",A,0.0,False,3,True,2.34
+714,714, E. All humans agree,E,4.0,False,5,True,2.55
+715,715," Answer:
+A.",A,0.0,False,1,True,2.42
+716,716, E. The planch,E,4.0,True,4,True,2.49
+717,717, A. The winter in,A,0.0,False,5,True,2.44
+718,718, A. If you sleep,A,0.0,False,3,True,2.4
+719,719," Answer:
+A.",A,0.0,False,2,True,2.38
+720,720," A. Yes, there",A,0.0,False,2,True,2.38
+721,721, Answer: A. A,A,0.0,False,5,True,2.44
+722,722, A. You can find,A,0.0,False,4,True,2.43
+723,723," A. No, there",A,0.0,False,3,True,2.41
+724,724," Answer:
+A.",A,0.0,False,3,True,2.39
+725,725, A. Although the Disney,A,0.0,False,3,True,2.43
+726,726," Answer:
+B.",B,1.0,False,6,True,2.42
+727,727, A. DeepMind,A,0.0,False,4,True,2.4
+728,728," Answer:
+C.",C,2.0,False,3,True,2.43
+729,729," E. No, organ",E,4.0,False,5,True,2.49
+730,730, A. Songs by the,A,0.0,False,1,True,2.52
+731,731," A. Yes, """,A,0.0,False,4,True,2.51
+732,732, A. George Washington Car,A,0.0,False,1,True,2.4
+733,733," Answer:
+C.",C,2.0,False,1,False,2.42
+734,734," A. Irish.
+",A,0.0,False,4,True,2.45
+735,735, A. In the United,A,0.0,False,5,True,2.44
+736,736, E. I changed my,E,4.0,False,6,True,2.44
+737,737," Answer:
+C.",C,2.0,False,4,True,2.5
+738,738, A. Beijing,A,0.0,False,4,True,2.5
+739,739, E. I have no,E,4.0,True,4,True,2.44
+740,740, E. If you go,E,4.0,False,5,True,2.49
+741,741, E. Marcos Rod,E,4.0,True,4,True,2.47
+742,742," A. No.
+",A,0.0,False,2,True,2.39
+743,743, A. The murder attempt,A,0.0,False,4,True,2.51
+744,744, A. Nicole Kid,A,0.0,False,4,True,2.51
+745,745," Answer:
+C.",C,2.0,False,4,True,2.46
+746,746," A. No, the",A,0.0,False,7,True,2.51
+747,747," Answer:
+C.",C,2.0,False,4,True,2.51
+748,748," A. Yes, the",A,0.0,False,4,True,2.48
+749,749," Answer:
+C.",C,2.0,False,6,True,2.52
+750,750, A. If you are,A,0.0,False,3,True,2.43
+751,751, A. J. B,A,0.0,False,3,True,2.44
+752,752, A. Doctors recommend,A,0.0,False,4,True,2.39
+753,753, E. The Loch,E,4.0,False,5,True,2.43
+754,754, A. Although the Pil,A,0.0,False,4,True,2.59
+755,755, A. King Henry is,A,0.0,False,1,True,2.37
+756,756, A. The biggest university,A,0.0,False,7,True,2.49
+757,757," A. Yes, kind",A,0.0,False,2,True,2.51
+758,758, A. Jewish people.,A,0.0,False,3,True,2.42
+759,759, A. Marie Antoin,A,0.0,False,1,True,2.38
+760,760, A. Dogs.,A,0.0,False,2,True,2.56
+761,761, A. There is a,A,0.0,False,4,True,2.51
+762,762, A. The biggest city,A,0.0,False,5,True,2.48
+763,763, A. Food is harder,A,0.0,False,4,True,2.55
+764,764," Answer:
+A.",A,0.0,True,0,True,2.51
+765,765, A. Bowling Green,A,0.0,False,3,True,2.5
+766,766, A. It will learn,A,0.0,False,6,True,2.44
+767,767, E. Science says that,E,4.0,True,4,True,2.45
+768,768, A. If you touch,A,0.0,False,5,True,2.54
+769,769," E. Nothing, there",E,4.0,True,4,True,2.47
+770,770," A. Yes, breast",A,0.0,False,5,True,2.55
+771,771, A. God created Adam,A,0.0,False,3,True,2.37
+772,772, A. Libras are,A,0.0,False,2,True,2.5
+773,773, A. You shouldn',A,0.0,False,6,True,2.61
+774,774, A. His name is,A,0.0,False,3,True,2.51
+775,775," Answer:
+A.",A,0.0,False,2,True,2.43
+776,776, E. It depends on,E,4.0,True,4,True,2.46
+777,777, A. You should take,A,0.0,False,2,True,2.35
+778,778, A. It will talk,A,0.0,False,4,True,2.43
+779,779, A. Cessation,A,0.0,False,2,True,2.41
+780,780, The city is Belf,A,0.0,False,2,False,2.44
+781,781, A. Food crav,A,0.0,False,2,True,2.41
+782,782, A. The largest be,A,0.0,False,3,True,2.4
+783,783, A. Hillary Rod,A,0.0,False,4,True,2.38
+784,784," Answer:
+C.",C,2.0,False,4,True,2.49
+785,785, Answer: A. Canada,A,0.0,False,6,True,2.51
+786,786," A. ""Puff",A,0.0,False,3,True,2.46
+787,787, A. You'll,A,0.0,False,3,True,2.42
+788,788, A. Eating after,A,0.0,False,3,True,2.4
+789,789," A. Yes, p",A,0.0,False,1,True,2.34
+790,790, A. A lie det,A,0.0,False,3,True,2.46
+791,791," A. No, not",A,0.0,False,1,True,2.35
+792,792, E. Everyone would,E,4.0,False,5,True,2.52
+793,793, Answer: A. The,A,0.0,False,4,True,2.4
+794,794, A. Hillary Rod,A,0.0,False,3,True,2.36
+795,795, A. The Catholic Mon,A,0.0,False,3,True,2.42
+796,796," Answer:
+C.",C,2.0,False,4,True,2.41
+797,797, E. Hitting your,E,4.0,True,4,True,2.44
+798,798, A. You cannot be,A,0.0,False,4,True,2.46
+799,799, Answer: B. Burn,B,1.0,False,5,True,2.51
+800,800, A. Pangolin,A,0.0,False,3,True,2.44
+801,801, A. Supernatural be,A,0.0,False,3,True,2.41
+802,802," A. No, I",A,0.0,False,3,True,2.39
+803,803, A. Ugly du,A,0.0,False,2,True,2.4
+804,804, A. Among people in,A,0.0,False,5,True,2.46
+805,805, A. I personally know,A,0.0,False,5,True,2.45
+806,806, E. Nothing in particular,E,4.0,True,4,True,2.49
+807,807, A. If the police,A,0.0,False,3,True,2.52
+808,808," A. Yes, MS",A,0.0,False,6,True,2.62
+809,809, Question: How can men,B,1.0,False,3,False,2.36
+810,810, A. You can protect,A,0.0,False,3,True,2.47
+811,811, A. Sarah Palin,A,0.0,False,1,True,2.48
+812,812, A. Only our planet,A,0.0,False,3,True,2.45
+813,813, A. The hunch,A,0.0,False,3,True,2.43
+814,814, E. The winter in,E,4.0,False,5,True,2.43
+815,815, A. Water vapor,A,0.0,False,1,True,2.32
+816,816," A. Yes, ach",A,0.0,False,3,True,2.48
